@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Gabriel E. Lima</title>
+    <link>/</link>
+    <description>Recent content on Gabriel E. Lima</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 13 Jul 2023 00:00:00 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>/about/</link>
+      <pubDate>Thu, 13 Jul 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/about/</guid>
+      <description>Hello! My name is Gabriel Eduardo Lima, I&amp;rsquo;m 20 years old and I&amp;rsquo;m from Pomerode - small city in Santa Catarina state, in south of Brazil. I&amp;rsquo;m currently enrolled in an undergraduate course in Computer Science, offered by IFC - Campus Blumenau. After completing the course, I aim to develop an academic career joining a graduate program.
+Topics of interest Link to heading Artificial Intelligence, focusing in Machine Learning Computer Vision Image processing Educational Background Link to heading Simple box B.</description>
+    </item>
+    
+    <item>
+      <title>First post</title>
+      <link>/posts/placeholder-text/</link>
+      <pubDate>Thu, 13 Jul 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/placeholder-text/</guid>
+      <description>The first post will be posted soon&amp;hellip; You are welcome to come back later check it!</description>
+    </item>
+    
+    <item>
+      <title>DRØMME: A 2D shooting game proposal</title>
+      <link>/projects/dromme/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/projects/dromme/</guid>
+      <description>Basic info Link to heading Type: High school project (technician course) Period: Year 2018 Area: Game development Authors: Gabriel Eduardo Lima, Guilherme Eduardo Kuglin, Thiago Vinicius de Oliveira Hornburg e Timóteo Rafael Janzen Instructors: Adriano Pessini, Eder Augusto Penharbel e Ricardo de la Rocha Ladeira About Link to heading DRØMME consists of a simple 2D shooting game. It is set in a post-zombie apocalypse world, where the player must face and eliminate all enemies to progress through the stages.</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/contact/</guid>
+      <description>Get in touch sending an e-mail to: limaedugabriel@gmail.com</description>
+    </item>
+    
+  </channel>
+</rss>

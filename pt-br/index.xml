@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Gabriel E. Lima</title>
+    <link>/pt-br/</link>
+    <description>Recent content on Gabriel E. Lima</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 13 Jul 2023 00:00:00 +0000</lastBuildDate><atom:link href="/pt-br/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Primeiro post</title>
+      <link>/pt-br/posts/placeholder-text/</link>
+      <pubDate>Thu, 13 Jul 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/pt-br/posts/placeholder-text/</guid>
+      <description>O primeiro post será postado em breve&amp;hellip; Convido você vir conferir posteriormente!</description>
+    </item>
+    
+    <item>
+      <title>Sobre</title>
+      <link>/pt-br/about/</link>
+      <pubDate>Thu, 13 Jul 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/pt-br/about/</guid>
+      <description>Olá! Meu nome é Gabriel Eduardo Lima, tenho 20 anos e sou natural da cidade de Pomerode-SC. Sou estudante do curso de Bacharelado em Ciência da Computação ofertado pelo IFC - Campus Blumenau. Após conclusão do curso, tenho como objetivo desenvolver careira acadêmica ingressando em um programa de pós-graduação.
+Áreas de Interesse Link para o cabeçalho Inteligência Artificial, em especial Machine Learning Visão computacional Processamento de imagens Formação Link para o cabeçalho Simple box Bacharelado em Ciência da Computação</description>
+    </item>
+    
+    <item>
+      <title>DRØMME: Proposta de um jogo de tiro 2D</title>
+      <link>/pt-br/projects/dromme/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/pt-br/projects/dromme/</guid>
+      <description>Informações básicas Link para o cabeçalho Tipo: Projeto de ensino médio Período de realização: Ano de 2018 Área: Desenvolvimento de jogos Autores: Gabriel Eduardo Lima, Guilherme Eduardo Kuglin, Thiago Vinicius de Oliveira Hornburg e Timóteo Rafael Janzen Orientadores: Adriano Pessini, Eder Augusto Penharbel e Ricardo de la Rocha Ladeira Sobre Link para o cabeçalho DRØMME consiste de um jogo de tiro 2D simples. Sua temática está situada em um mundo pós-apocalipse zumbi, onde o jogador deve enfrentar e eliminar todos os inimigos progredir de fases.</description>
+    </item>
+    
+    <item>
+      <title>Contato</title>
+      <link>/pt-br/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/pt-br/contact/</guid>
+      <description>Entre em contato mandando um e-mail para: limaedugabriel@gmail.com</description>
+    </item>
+    
+  </channel>
+</rss>

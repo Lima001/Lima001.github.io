@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Gabriel Eduardo Lima on Gabriel E. Lima</title>
+    <link>/authors/gabriel-eduardo-lima/</link>
+    <description>Recent content in Gabriel Eduardo Lima on Gabriel E. Lima</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate><atom:link href="/authors/gabriel-eduardo-lima/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>DRØMME: A 2D shooting game proposal</title>
+      <link>/projects/dromme/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/projects/dromme/</guid>
+      <description>Basic info Link to heading Type: High school project (technician course) Period: Year 2018 Area: Game development Authors: Gabriel Eduardo Lima, Guilherme Eduardo Kuglin, Thiago Vinicius de Oliveira Hornburg e Timóteo Rafael Janzen Instructors: Adriano Pessini, Eder Augusto Penharbel e Ricardo de la Rocha Ladeira About Link to heading DRØMME consists of a simple 2D shooting game. It is set in a post-zombie apocalypse world, where the player must face and eliminate all enemies to progress through the stages.</description>
+    </item>
+    
+  </channel>
+</rss>

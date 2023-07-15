@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Gabriel Eduardo Lima on Gabriel E. Lima</title>
+    <link>/pt-br/authors/gabriel-eduardo-lima/</link>
+    <description>Recent content in Gabriel Eduardo Lima on Gabriel E. Lima</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate><atom:link href="/pt-br/authors/gabriel-eduardo-lima/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>DRØMME: Proposta de um jogo de tiro 2D</title>
+      <link>/pt-br/projects/dromme/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/pt-br/projects/dromme/</guid>
+      <description>Informações básicas Link para o cabeçalho Tipo: Projeto de ensino médio Período de realização: Ano de 2018 Área: Desenvolvimento de jogos Autores: Gabriel Eduardo Lima, Guilherme Eduardo Kuglin, Thiago Vinicius de Oliveira Hornburg e Timóteo Rafael Janzen Orientadores: Adriano Pessini, Eder Augusto Penharbel e Ricardo de la Rocha Ladeira Sobre Link para o cabeçalho DRØMME consiste de um jogo de tiro 2D simples. Sua temática está situada em um mundo pós-apocalipse zumbi, onde o jogador deve enfrentar e eliminar todos os inimigos progredir de fases.</description>
+    </item>
+    
+  </channel>
+</rss>
