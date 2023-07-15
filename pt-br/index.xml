@@ -27,11 +27,101 @@
     </item>
     
     <item>
+      <title>Busca adversária aplicada ao jogo da velha</title>
+      <link>/pt-br/projects/tic-tac-toe/tic-tac-toe/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/pt-br/projects/tic-tac-toe/tic-tac-toe/</guid>
+      <description>Descrição em breve
+Informações básicas Link para o cabeçalho Sobre Link para o cabeçalho Conteúdos e tópicos estudados Link para o cabeçalho Recursos externos Link para o cabeçalho Galeria Link para o cabeçalho </description>
+    </item>
+    
+    <item>
+      <title>Implementando e aplicando um modelo MLP</title>
+      <link>/pt-br/projects/mlp/mlp/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/pt-br/projects/mlp/mlp/</guid>
+      <description>Descrição em breve
+Informações básicas Link para o cabeçalho Sobre Link para o cabeçalho Conteúdos e tópicos estudados Link para o cabeçalho Recursos externos Link para o cabeçalho Galeria Link para o cabeçalho </description>
+    </item>
+    
+    <item>
+      <title>Protótipo de simulador de robô diferencial com OpenGL</title>
+      <link>/pt-br/projects/robot-simulation/robot-simulation/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/pt-br/projects/robot-simulation/robot-simulation/</guid>
+      <description>Descrição em breve
+Informações básicas Link para o cabeçalho Sobre Link para o cabeçalho Conteúdos e tópicos estudados Link para o cabeçalho Recursos externos Link para o cabeçalho Galeria Link para o cabeçalho </description>
+    </item>
+    
+    <item>
+      <title>Implementado e aplicando métodos numéricos</title>
+      <link>/pt-br/projects/numerical-methods/numerical-methods/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/pt-br/projects/numerical-methods/numerical-methods/</guid>
+      <description>Descrição em breve&amp;hellip;
+Informações básicas Link para o cabeçalho Sobre Link para o cabeçalho Conteúdos e tópicos estudados Link para o cabeçalho Recursos externos Link para o cabeçalho Galeria Link para o cabeçalho </description>
+    </item>
+    
+    <item>
+      <title>Protótipo de sistema de compartilhamento de arquivos P2P: Enviando mensagens secretas por imagens</title>
+      <link>/pt-br/projects/file-sharing/file-sharing/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/pt-br/projects/file-sharing/file-sharing/</guid>
+      <description>Descrição em breve&amp;hellip;
+Informações básicas Link para o cabeçalho Sobre Link para o cabeçalho Conteúdos e tópicos estudados Link para o cabeçalho Recursos externos Link para o cabeçalho Galeria Link para o cabeçalho </description>
+    </item>
+    
+    <item>
+      <title>Validação de tipos de dados em python usando metaprogramação</title>
+      <link>/pt-br/projects/python-meta/python-meta/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/pt-br/projects/python-meta/python-meta/</guid>
+      <description>Descrição em breve&amp;hellip;
+Informações básicas Link para o cabeçalho Sobre Link para o cabeçalho Conteúdos e tópicos estudados Link para o cabeçalho Recursos externos Link para o cabeçalho Galeria Link para o cabeçalho </description>
+    </item>
+    
+    <item>
+      <title>Interpretador de sentenças da lógica de predicados</title>
+      <link>/pt-br/projects/logic/logic/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/pt-br/projects/logic/logic/</guid>
+      <description>Descrição em breve&amp;hellip;
+Informações básicas Link para o cabeçalho Sobre Link para o cabeçalho Conteúdos e tópicos estudados Link para o cabeçalho Recursos externos Link para o cabeçalho Galeria Link para o cabeçalho </description>
+    </item>
+    
+    <item>
+      <title>Simulação física em 2D: Aplicando as leis de Newton</title>
+      <link>/pt-br/projects/simulation-poo/simulation-poo/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/pt-br/projects/simulation-poo/simulation-poo/</guid>
+      <description>Descrição em breve&amp;hellip;
+Informações básicas Link para o cabeçalho Sobre Link para o cabeçalho Conteúdos e tópicos estudados Link para o cabeçalho Recursos externos Link para o cabeçalho Galeria Link para o cabeçalho </description>
+    </item>
+    
+    <item>
+      <title>Programação de caminho para drone usando imagens e python</title>
+      <link>/pt-br/projects/drone-path/drone-path/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/pt-br/projects/drone-path/drone-path/</guid>
+      <description>Descrição em breve&amp;hellip;
+Informações básicas Link para o cabeçalho Sobre Link para o cabeçalho Conteúdos e tópicos estudados Link para o cabeçalho Recursos externos Link para o cabeçalho Galeria Link para o cabeçalho </description>
+    </item>
+    
+    <item>
       <title>DRØMME: Proposta de um jogo de tiro 2D</title>
-      <link>/pt-br/projects/dromme/</link>
+      <link>/pt-br/projects/dromme/dromme/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
       
-      <guid>/pt-br/projects/dromme/</guid>
+      <guid>/pt-br/projects/dromme/dromme/</guid>
       <description>Informações básicas Link para o cabeçalho Tipo: Projeto de ensino médio Período de realização: Ano de 2018 Área: Desenvolvimento de jogos Autores: Gabriel Eduardo Lima, Guilherme Eduardo Kuglin, Thiago Vinicius de Oliveira Hornburg e Timóteo Rafael Janzen Orientadores: Adriano Pessini, Eder Augusto Penharbel e Ricardo de la Rocha Ladeira Sobre Link para o cabeçalho DRØMME consiste de um jogo de tiro 2D simples. Sua temática está situada em um mundo pós-apocalipse zumbi, onde o jogador deve enfrentar e eliminar todos os inimigos progredir de fases.</description>
     </item>
     

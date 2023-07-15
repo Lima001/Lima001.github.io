@@ -14,7 +14,7 @@
       
       <guid>/about/</guid>
       <description>Hello! My name is Gabriel Eduardo Lima, I&amp;rsquo;m 20 years old and I&amp;rsquo;m from Pomerode - small city in Santa Catarina state, in south of Brazil. I&amp;rsquo;m currently enrolled in an undergraduate course in Computer Science, offered by IFC - Campus Blumenau. After completing the course, I aim to develop an academic career joining a graduate program.
-Topics of interest Link to heading Artificial Intelligence, focusing in Machine Learning Computer Vision Image processing Educational Background Link to heading Simple box B.</description>
+Topics of interest Link to heading Artificial Intelligence, focusing on Machine Learning Computer Vision Image processing Educational Background Link to heading Simple box B.</description>
     </item>
     
     <item>
@@ -23,15 +23,105 @@ Topics of interest Link to heading Artificial Intelligence, focusing in Machine 
       <pubDate>Thu, 13 Jul 2023 00:00:00 +0000</pubDate>
       
       <guid>/posts/placeholder-text/</guid>
-      <description>The first post will be posted soon&amp;hellip; You are welcome to come back later check it!</description>
+      <description>The first post will be posted soon&amp;hellip; You are welcome to come back later and check it!</description>
+    </item>
+    
+    <item>
+      <title>A differential robot simulator prototype with OpenGL</title>
+      <link>/projects/robot-simulation/robot-simulation/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/projects/robot-simulation/robot-simulation/</guid>
+      <description>Description coming soon&amp;hellip;
+Basic info Link to heading About Link to heading Content and topics studied Link to heading External resources Link to heading Gallery Link to heading </description>
+    </item>
+    
+    <item>
+      <title>Adversarial search applied to tic-tac-toe</title>
+      <link>/projects/tic-tac-toe/tic-tac-toe/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/projects/tic-tac-toe/tic-tac-toe/</guid>
+      <description>Description coming soon&amp;hellip;
+Basic info Link to heading About Link to heading Content and topics studied Link to heading External resources Link to heading Gallery Link to heading </description>
+    </item>
+    
+    <item>
+      <title>Implementing and applying a MLP model</title>
+      <link>/projects/mlp/mlp/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/projects/mlp/mlp/</guid>
+      <description>Description coming soon&amp;hellip;
+Basic info Link to heading About Link to heading Content and topics studied Link to heading External resources Link to heading Gallery Link to heading </description>
+    </item>
+    
+    <item>
+      <title>A P2P file sharing prototype system: Sending secret messages through images</title>
+      <link>/projects/file-sharing/file-sharing/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/projects/file-sharing/file-sharing/</guid>
+      <description>Description coming soon&amp;hellip;
+Basic info Link to heading About Link to heading Content and topics studied Link to heading External resources Link to heading Gallery Link to heading </description>
+    </item>
+    
+    <item>
+      <title>Implementing and applying numerical methods</title>
+      <link>/projects/numerical-methods/numerical-methods/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/projects/numerical-methods/numerical-methods/</guid>
+      <description>Description coming soon&amp;hellip;
+Basic info Link to heading About Link to heading Content and topics studied Link to heading External resources Link to heading Gallery Link to heading </description>
+    </item>
+    
+    <item>
+      <title>Python data type validation using metaprogramming</title>
+      <link>/projects/python-meta/python-meta/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/projects/python-meta/python-meta/</guid>
+      <description>Description coming soon&amp;hellip;
+Basic info Link to heading About Link to heading Content and topics studied Link to heading External resources Link to heading Gallery Link to heading </description>
+    </item>
+    
+    <item>
+      <title>Physic simulation in 2D: Applying Newton&#39;s laws</title>
+      <link>/projects/simulation-poo/simulation-poo/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/projects/simulation-poo/simulation-poo/</guid>
+      <description>Description coming soon&amp;hellip;
+Basic info Link to heading About Link to heading Content and topics studied Link to heading External resources Link to heading Gallery Link to heading </description>
+    </item>
+    
+    <item>
+      <title>Propositional logic sentence interpreter</title>
+      <link>/projects/logic/logic/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/projects/logic/logic/</guid>
+      <description>Description coming soon&amp;hellip;
+Basic info Link to heading About Link to heading Content and topics studied Link to heading External resources Link to heading Gallery Link to heading </description>
+    </item>
+    
+    <item>
+      <title>Drone path programming using images and python</title>
+      <link>/projects/drone-path/drone-path/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/projects/drone-path/drone-path/</guid>
+      <description>Description coming soon&amp;hellip;
+Basic info Link to heading About Link to heading Content and topics studied Link to heading External resources Link to heading Gallery Link to heading </description>
     </item>
     
     <item>
       <title>DRØMME: A 2D shooting game proposal</title>
-      <link>/projects/dromme/</link>
+      <link>/projects/dromme/dromme/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
       
-      <guid>/projects/dromme/</guid>
+      <guid>/projects/dromme/dromme/</guid>
       <description>Basic info Link to heading Type: High school project (technician course) Period: Year 2018 Area: Game development Authors: Gabriel Eduardo Lima, Guilherme Eduardo Kuglin, Thiago Vinicius de Oliveira Hornburg e Timóteo Rafael Janzen Instructors: Adriano Pessini, Eder Augusto Penharbel e Ricardo de la Rocha Ladeira About Link to heading DRØMME consists of a simple 2D shooting game. It is set in a post-zombie apocalypse world, where the player must face and eliminate all enemies to progress through the stages.</description>
     </item>
     

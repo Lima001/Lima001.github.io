@@ -90,7 +90,7 @@
                 />
   </url><url>
     <loc>/pt-br/authors/</loc>
-    <lastmod>2018-01-01T00:00:00+00:00</lastmod>
+    <lastmod>2023-01-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -102,21 +102,21 @@
                 href="/pt-br/authors/"
                 />
   </url><url>
-    <loc>/pt-br/projects/dromme/</loc>
-    <lastmod>2018-01-01T00:00:00+00:00</lastmod>
+    <loc>/pt-br/projects/tic-tac-toe/tic-tac-toe/</loc>
+    <lastmod>2023-01-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/projects/dromme/"
+                href="/projects/tic-tac-toe/tic-tac-toe/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="/pt-br/projects/dromme/"
+                href="/pt-br/projects/tic-tac-toe/tic-tac-toe/"
                 />
   </url><url>
     <loc>/pt-br/authors/gabriel-eduardo-lima/</loc>
-    <lastmod>2018-01-01T00:00:00+00:00</lastmod>
+    <lastmod>2023-01-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -128,8 +128,21 @@
                 href="/pt-br/authors/gabriel-eduardo-lima/"
                 />
   </url><url>
+    <loc>/pt-br/projects/mlp/mlp/</loc>
+    <lastmod>2023-01-01T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/projects/mlp/mlp/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt-br"
+                href="/pt-br/projects/mlp/mlp/"
+                />
+  </url><url>
     <loc>/pt-br/projects/</loc>
-    <lastmod>2018-01-01T00:00:00+00:00</lastmod>
+    <lastmod>2023-01-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -139,6 +152,110 @@
                 rel="alternate"
                 hreflang="pt-br"
                 href="/pt-br/projects/"
+                />
+  </url><url>
+    <loc>/pt-br/projects/robot-simulation/robot-simulation/</loc>
+    <lastmod>2023-01-01T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/projects/robot-simulation/robot-simulation/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt-br"
+                href="/pt-br/projects/robot-simulation/robot-simulation/"
+                />
+  </url><url>
+    <loc>/pt-br/projects/numerical-methods/numerical-methods/</loc>
+    <lastmod>2022-01-01T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/projects/numerical-methods/numerical-methods/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt-br"
+                href="/pt-br/projects/numerical-methods/numerical-methods/"
+                />
+  </url><url>
+    <loc>/pt-br/projects/file-sharing/file-sharing/</loc>
+    <lastmod>2022-01-01T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/projects/file-sharing/file-sharing/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt-br"
+                href="/pt-br/projects/file-sharing/file-sharing/"
+                />
+  </url><url>
+    <loc>/pt-br/projects/python-meta/python-meta/</loc>
+    <lastmod>2021-01-01T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/projects/python-meta/python-meta/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt-br"
+                href="/pt-br/projects/python-meta/python-meta/"
+                />
+  </url><url>
+    <loc>/pt-br/projects/logic/logic/</loc>
+    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/projects/logic/logic/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt-br"
+                href="/pt-br/projects/logic/logic/"
+                />
+  </url><url>
+    <loc>/pt-br/projects/simulation-poo/simulation-poo/</loc>
+    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/projects/simulation-poo/simulation-poo/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt-br"
+                href="/pt-br/projects/simulation-poo/simulation-poo/"
+                />
+  </url><url>
+    <loc>/pt-br/projects/drone-path/drone-path/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/projects/drone-path/drone-path/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt-br"
+                href="/pt-br/projects/drone-path/drone-path/"
+                />
+  </url><url>
+    <loc>/pt-br/projects/dromme/dromme/</loc>
+    <lastmod>2018-01-01T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/projects/dromme/dromme/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt-br"
+                href="/pt-br/projects/dromme/dromme/"
                 />
   </url><url>
     <loc>/pt-br/contact/</loc>
