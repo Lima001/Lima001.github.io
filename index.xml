@@ -13,8 +13,8 @@
       <pubDate>Thu, 13 Jul 2023 00:00:00 +0000</pubDate>
       
       <guid>/about/</guid>
-      <description>Hello! My name is Gabriel Eduardo Lima, I&amp;rsquo;m 20 years old and I&amp;rsquo;m from Pomerode - small city in Santa Catarina state, in south of Brazil. I&amp;rsquo;m currently enrolled in an undergraduate course in Computer Science, offered by IFC - Campus Blumenau. After completing the course, I aim to develop an academic career joining a graduate program.
-Topics of interest Link to heading Artificial Intelligence, focusing on Machine Learning Computer Vision Image processing Educational Background Link to heading Simple box B.</description>
+      <description>Hello! My name is Gabriel Eduardo Lima, I&amp;rsquo;m 20 years old and I&amp;rsquo;m from Pomerode - small city in Santa Catarina state, in south of Brazil. I&amp;rsquo;m currently enrolled in an undergraduate program in Computer Science, offered by IFC - Campus Blumenau. After completing the course, I aim to develop an academic career joining a graduate program.
+Topics of interest Link to heading Artificial Intelligence, focusing on Machine Learning; Computer Vision; Image processing.</description>
     </item>
     
     <item>
@@ -112,8 +112,7 @@ Basic info Link to heading About Link to heading Content and topics studied Link
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
       
       <guid>/projects/drone-path/drone-path/</guid>
-      <description>Description coming soon&amp;hellip;
-Basic info Link to heading About Link to heading Content and topics studied Link to heading External resources Link to heading Gallery Link to heading </description>
+      <description>Basic info Link to heading Type: High school project (technician course) Period: Year 2019 Area: Image processing Authors: Gabriel Eduardo Lima and Thiago Vinicius de Oliveira Hornburg Instructors: Hylson Vescovi Netto and Deivis Elton Schlickmann Frainer About Link to heading The project consists on applying computing and mathematics knowledge in order to create automated trajectories for drones. Image analyzis and interpretation is done by software implemented in Python (3.7.0) with the Pillow library (5.</description>
     </item>
     
     <item>
@@ -122,7 +121,7 @@ Basic info Link to heading About Link to heading Content and topics studied Link
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
       
       <guid>/projects/dromme/dromme/</guid>
-      <description>Basic info Link to heading Type: High school project (technician course) Period: Year 2018 Area: Game development Authors: Gabriel Eduardo Lima, Guilherme Eduardo Kuglin, Thiago Vinicius de Oliveira Hornburg e Timóteo Rafael Janzen Instructors: Adriano Pessini, Eder Augusto Penharbel e Ricardo de la Rocha Ladeira About Link to heading DRØMME consists of a simple 2D shooting game. It is set in a post-zombie apocalypse world, where the player must face and eliminate all enemies to progress through the stages.</description>
+      <description>Basic info Link to heading Type: High school project (technician course) Period: Year 2018 Area: Game development Authors: Gabriel Eduardo Lima, Guilherme Eduardo Kuglin, Thiago Vinicius de Oliveira Hornburg and Timóteo Rafael Janzen Instructors: Adriano Pessini, Eder Augusto Penharbel e Ricardo de la Rocha Ladeira About Link to heading DRØMME consists of a simple 2D shooting game. It is set in a post-zombie apocalypse world, where the player must face and eliminate all enemies to progress through the stages.</description>
     </item>
     
     <item>
