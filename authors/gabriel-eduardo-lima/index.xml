@@ -13,8 +13,7 @@
       <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
       
       <guid>/projects/robot-simulation/robot-simulation/</guid>
-      <description>Description coming soon&amp;hellip;
-Basic info Link to heading About Link to heading Content and topics studied Link to heading External resources Link to heading Gallery Link to heading </description>
+      <description>Basic info Link to heading Type: Undergraduate project - Computer Graphics course Period: 1st semester of 2023 Authors: Student: Gabriel Eduardo Lima Professor: Eder Augusto Penharbel About Link to heading The project consists in implementating basic elements necessary for a differential robot simulation in OpenGL (core). The objective, in addition to enabling the study of future work, is to apply computer graphics concepts in the C++ language in a practical way.</description>
     </item>
     
     <item>
@@ -23,8 +22,7 @@ Basic info Link to heading About Link to heading Content and topics studied Link
       <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
       
       <guid>/projects/tic-tac-toe/tic-tac-toe/</guid>
-      <description>Description coming soon&amp;hellip;
-Basic info Link to heading About Link to heading Content and topics studied Link to heading External resources Link to heading Gallery Link to heading </description>
+      <description>Basic info Link to heading Type: Undergraduate project - Artificial Intelligence course Period: 1st semester of 2020 Authors: Student: Gabriel Eduardo Lima Professor: Eder Augusto Penharbel About Link to heading The project was presented at a seminar on the topic of Search Problems. The objective is to present adversary search problems, as well as to present a simple algorithm in a practical way. For this, the minmax algorithm was implemented to play the tic-tac-toe game.</description>
     </item>
     
     <item>
@@ -33,8 +31,7 @@ Basic info Link to heading About Link to heading Content and topics studied Link
       <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
       
       <guid>/projects/mlp/mlp/</guid>
-      <description>Description coming soon&amp;hellip;
-Basic info Link to heading About Link to heading Content and topics studied Link to heading External resources Link to heading Gallery Link to heading </description>
+      <description>Basic info Link to heading Type: Undergraduate project - Artificial Intelligence course Period: 1st semester of 2023 Authors: Student: Gabriel Eduardo Lima Professor: Eder Augusto Penharbel About Link to heading The project consists of studying the MLP model and the backpropagation algorithm. In addition to the formal exploration, an own implementation in Python was performed. This implementation was then applied to solve problems such as: XOR function mapping; Digit classification on MNIST dataset; Construction of purely MLP-based autoencoder for image compressing from the MNIST dataset; Purely MLP-based autoencoder model construction for Gaussian blur denoising on images from the MNIST dataset.</description>
     </item>
     
     <item>
@@ -43,8 +40,7 @@ Basic info Link to heading About Link to heading Content and topics studied Link
       <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
       
       <guid>/projects/file-sharing/file-sharing/</guid>
-      <description>Description coming soon&amp;hellip;
-Basic info Link to heading About Link to heading Content and topics studied Link to heading External resources Link to heading Gallery Link to heading </description>
+      <description>Basic info Link to heading Type: Undergraduate project - Web Development II course Period: 1st semester of 2021 Authors: Student: Gabriel Eduardo Lima Professor: Hylson Vescovi Netto About Link to heading The project consists of implementing a network for sharing &amp;ldquo;secret&amp;rdquo; messages through steganographed images with an encrypted text message. A prototype of a P2P network was implemented for file access and distribution. For this purpose, an HTML page server and a P2P network prototype to operate as a file server were implemented in Python.</description>
     </item>
     
     <item>
@@ -53,8 +49,8 @@ Basic info Link to heading About Link to heading Content and topics studied Link
       <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
       
       <guid>/projects/numerical-methods/numerical-methods/</guid>
-      <description>Description coming soon&amp;hellip;
-Basic info Link to heading About Link to heading Content and topics studied Link to heading External resources Link to heading Gallery Link to heading </description>
+      <description>Basic info Link to heading Type: Undergraduate project - Numerical Methods course Period: 2st semester of 2022 Authors: Student: Gabriel Eduardo Lima Professor: Eder Augusto Penharbel About Link to heading Study and implementation of different numerical methods throughout the mentioned discipline. As a highlight, it is possible to mention the implementation of:
+Different Gauss-Jordan elimination method variations, as well as the Cholesky algorithm for solving linear systems; Different interpolation methods - Nearest Neighbour, linear and bilinear - and application in image transformation; Root finding algorithms; CORDIC algorithm using Taylor polynomials for trigonometric functions approximation; SIFT algorithm - Although not finalized, it was possible to study concepts such as the DOG calculation, and quadratic function interpolation using Taylor.</description>
     </item>
     
     <item>
@@ -63,8 +59,7 @@ Basic info Link to heading About Link to heading Content and topics studied Link
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
       
       <guid>/projects/python-meta/python-meta/</guid>
-      <description>Description coming soon&amp;hellip;
-Basic info Link to heading About Link to heading Content and topics studied Link to heading External resources Link to heading Gallery Link to heading </description>
+      <description>Basic info Link to heading Type: Undergraduate project - Object Oriented Programming II course Period: 1st semester of 2021 Authors: Student: Gabriel Eduardo Lima Professor: Hylson Vescovi Netto About Link to heading The project consists of verifying and validating data types at runtime of Python programs using metaprogramming. In this way, it is possible to prevent incorrect data types from being passed to functions and class methods. The language version used was 3.</description>
     </item>
     
     <item>
@@ -73,8 +68,7 @@ Basic info Link to heading About Link to heading Content and topics studied Link
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
       
       <guid>/projects/simulation-poo/simulation-poo/</guid>
-      <description>Description coming soon&amp;hellip;
-Basic info Link to heading About Link to heading Content and topics studied Link to heading External resources Link to heading Gallery Link to heading </description>
+      <description>Basic info Link to heading Type: Undergraduate project - Object Oriented Programming I course Period: 2nd semester of 2020 Authors: Student: Gabriel Eduardo Lima Professor: Eder Augusto Penharbel About Link to heading The project theme consists of 2D physics simulation. Through research on programming aspects such as Object Orientation, C++ language and the SLD2 library, together with the study of various mathematical and physical aspects, it is possible to build the simulation of an elastic system.</description>
     </item>
     
     <item>
@@ -83,8 +77,7 @@ Basic info Link to heading About Link to heading Content and topics studied Link
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
       
       <guid>/projects/logic/logic/</guid>
-      <description>Description coming soon&amp;hellip;
-Basic info Link to heading About Link to heading Content and topics studied Link to heading External resources Link to heading Gallery Link to heading </description>
+      <description>Basic info Link to heading Type: Undergraduate project - Mathematics Fundamentals for Computing course Period: 1st semester of 2020 Authors: Student: Gabriel Eduardo Lima Professor: Eder Augusto Penharbel About Link to heading Logic is an important study field that allows, for example, those who study it to develop concise arguments and prove that they are valid. In propositional logic, sentences are built by combining propositions, connectives (or operators) and boolean values.</description>
     </item>
     
     <item>
@@ -93,7 +86,7 @@ Basic info Link to heading About Link to heading Content and topics studied Link
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
       
       <guid>/projects/drone-path/drone-path/</guid>
-      <description>Basic info Link to heading Type: High school project (technician course) Period: Year 2019 Area: Image processing Authors: Gabriel Eduardo Lima and Thiago Vinicius de Oliveira Hornburg Instructors: Hylson Vescovi Netto and Deivis Elton Schlickmann Frainer About Link to heading The project consists on applying computing and mathematics knowledge in order to create automated trajectories for drones. Image analyzis and interpretation is done by software implemented in Python (3.7.0) with the Pillow library (5.</description>
+      <description>Basic info Link to heading Type: High school project (technician course) Period: Year 2019 Authors: Students: Gabriel Eduardo Lima and Thiago Vinicius de Oliveira Hornburg Professors: Hylson Vescovi Netto and Deivis Elton Schlickmann Frainer About Link to heading The project consists on applying computing and mathematics knowledge in order to create automated trajectories for drones. Image analyzis and interpretation is done by software implemented in Python (3.7.0) with the Pillow library (5.</description>
     </item>
     
     <item>
@@ -102,7 +95,7 @@ Basic info Link to heading About Link to heading Content and topics studied Link
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
       
       <guid>/projects/dromme/dromme/</guid>
-      <description>Basic info Link to heading Type: High school project (technician course) Period: Year 2018 Area: Game development Authors: Gabriel Eduardo Lima, Guilherme Eduardo Kuglin, Thiago Vinicius de Oliveira Hornburg and Timóteo Rafael Janzen Instructors: Adriano Pessini, Eder Augusto Penharbel e Ricardo de la Rocha Ladeira About Link to heading DRØMME consists of a simple 2D shooting game. It is set in a post-zombie apocalypse world, where the player must face and eliminate all enemies to progress through the stages.</description>
+      <description>Basic info Link to heading Type: High school project (technician course) Period: Year 2018 Authors: Students: Gabriel Eduardo Lima, Guilherme Eduardo Kuglin, Thiago Vinicius de Oliveira Hornburg and Timóteo Rafael Janzen Professors: Adriano Pessini, Eder Augusto Penharbel e Ricardo de la Rocha Ladeira About Link to heading DRØMME consists of a simple 2D shooting game. It is set in a post-zombie apocalypse world, where the player must face and eliminate all enemies to progress through the stages.</description>
     </item>
     
   </channel>
