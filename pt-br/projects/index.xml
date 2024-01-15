@@ -5,99 +5,78 @@
     <link>/pt-br/projects/</link>
     <description>Recent content in Projects on Gabriel E. Lima</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language>
-    <lastBuildDate>Sun, 01 Jan 2023 00:00:00 +0000</lastBuildDate><atom:link href="/pt-br/projects/index.xml" rel="self" type="application/rss+xml" />
+    <language>pt-br</language>
+    <lastBuildDate>Sun, 01 Jan 2023 00:00:00 +0000</lastBuildDate>
+    <atom:link href="/pt-br/projects/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Busca adversária aplicada ao jogo da velha</title>
       <link>/pt-br/projects/tic-tac-toe/tic-tac-toe/</link>
       <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
-      
       <guid>/pt-br/projects/tic-tac-toe/tic-tac-toe/</guid>
       <description>Informações básicas Link para o cabeçalho Tipo: Projeto da graduação - disciplina de Inteligência Artificial Período de realização: 1º semestre de 2023 Autores: Estudante: Gabriel Eduardo Lima Professor: Eder Augusto Penharbel Sobre Link para o cabeçalho O projeto em questão foi apresentado em seminário sobre o tema de Resolução de Problemas de Busca. O objetivo consiste em apresentar problemas de busca adversária, bem como apresentar um algoritmo simples de forma prática.</description>
     </item>
-    
     <item>
       <title>Implementando e aplicando um modelo MLP</title>
       <link>/pt-br/projects/mlp/mlp/</link>
       <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
-      
       <guid>/pt-br/projects/mlp/mlp/</guid>
       <description>Informações básicas Link para o cabeçalho Tipo: Projeto da graduação - disciplina de Inteligência Artificial Período de realização: 1º semestre de 2023 Autores: Estudante: Gabriel Eduardo Lima Professor: Eder Augusto Penharbel Sobre Link para o cabeçalho O projeto consiste no estudo do modelo MLP e do algoritmo backpropagation. Além da exploração formal, uma implementação própria em Python foi realizada. Essa implementação foi então aplicada para a resolução de problemas como: Mapeamento da função XOR (Ou exclusivo); Classificação de dígitos do conjunto MNIST; Construção de modelo autoencoder puramente baseado em MLP para compressão de imagens do conjunto MNIST; Construção de modelo autoencoder puramente baseado em MLP para denoising de blur Gaussiano de imagens do conjunto MNIST.</description>
     </item>
-    
     <item>
       <title>Protótipo de simulador de robô diferencial com OpenGL</title>
       <link>/pt-br/projects/robot-simulation/robot-simulation/</link>
       <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
-      
       <guid>/pt-br/projects/robot-simulation/robot-simulation/</guid>
-      <description>Descrição em breve
-Informações básicas Link para o cabeçalho Tipo: Projeto da graduação - disciplina de Computação Gráfica Período de realização: 1º semestre de 2023 Autores: Estudante: Gabriel Eduardo Lima Professor: Eder Augusto Penharbel Sobre Link para o cabeçalho O projeto consiste em implementar elementos básicos necessários para a simulação de um robô diferencial em OpenGL (core). O objetivo, além de possibilitar o desenvolvimento de trabalhos futuros, é de aplicar de forma prática conceitos de computação gráfica na linguagem C++.</description>
+      <description>Descrição em breve&#xA;Informações básicas Link para o cabeçalho Tipo: Projeto da graduação - disciplina de Computação Gráfica Período de realização: 1º semestre de 2023 Autores: Estudante: Gabriel Eduardo Lima Professor: Eder Augusto Penharbel Sobre Link para o cabeçalho O projeto consiste em implementar elementos básicos necessários para a simulação de um robô diferencial em OpenGL (core). O objetivo, além de possibilitar o desenvolvimento de trabalhos futuros, é de aplicar de forma prática conceitos de computação gráfica na linguagem C++.</description>
     </item>
-    
     <item>
       <title>Implementado e aplicando métodos numéricos</title>
       <link>/pt-br/projects/numerical-methods/numerical-methods/</link>
       <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
-      
       <guid>/pt-br/projects/numerical-methods/numerical-methods/</guid>
-      <description>Informações básicas Link para o cabeçalho Tipo: Projeto da graduação - disciplina de Métodos Numéricos Período de realização: 2º semestre de 2022 Autores: Estudante: Gabriel Eduardo Lima Professor: Eder Augusto Penharbel Sobre Link para o cabeçalho Estudo e implementação de diferentes métodos numéricos ao longo da realização da disciplina mencionada. Como destaque é possível mencionar a implementação de:
-Diferentes variações do método de eliminação de Gauss-Jordan, bem como o algoritmo de Cholesky para solução de sistemas lineares; Diferentes métodos de interpolação - Nearest Neighbour, linear e bi-linear - e aplicação para construção de imagens transformadas; Algoritmo para encontrar raízes; Algoritmo CORDIC em conjunto de polinômios de Taylor para aproximação de funções trigonométricas; Algoritmo SIFT - Apesar de não finalizado, foi possível estudar conceitos como o cálculo da diferença de gaussianas, e a interpolação de uma função quadrática usando Taylor.</description>
+      <description>Informações básicas Link para o cabeçalho Tipo: Projeto da graduação - disciplina de Métodos Numéricos Período de realização: 2º semestre de 2022 Autores: Estudante: Gabriel Eduardo Lima Professor: Eder Augusto Penharbel Sobre Link para o cabeçalho Estudo e implementação de diferentes métodos numéricos ao longo da realização da disciplina mencionada. Como destaque é possível mencionar a implementação de:&#xA;Diferentes variações do método de eliminação de Gauss-Jordan, bem como o algoritmo de Cholesky para solução de sistemas lineares; Diferentes métodos de interpolação - Nearest Neighbour, linear e bi-linear - e aplicação para construção de imagens transformadas; Algoritmo para encontrar raízes; Algoritmo CORDIC em conjunto de polinômios de Taylor para aproximação de funções trigonométricas; Algoritmo SIFT - Apesar de não finalizado, foi possível estudar conceitos como o cálculo da diferença de gaussianas, e a interpolação de uma função quadrática usando Taylor.</description>
     </item>
-    
     <item>
       <title>Protótipo de sistema de compartilhamento de arquivos P2P: Enviando mensagens secretas por imagens</title>
       <link>/pt-br/projects/file-sharing/file-sharing/</link>
       <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
-      
       <guid>/pt-br/projects/file-sharing/file-sharing/</guid>
       <description>Informações básicas Link para o cabeçalho Tipo: Projeto da graduação - disciplina de Desenvolvimento Web II Período de realização: 1º semestre de 2022 Autores: Estudante: Gabriel Eduardo Lima Professor: Hylson Vescovi Netto Sobre Link para o cabeçalho O projeto consiste na implementação de uma rede para compartilhamento de mensagens &amp;ldquo;secretas&amp;rdquo; através de imagens esteganografadas com uma mensagem de texto critpografada. O protótipo de uma rede P2P foi implementado para o acesso e distribuição de arquivos.</description>
     </item>
-    
     <item>
       <title>Validação de tipos de dados em python usando metaprogramação</title>
       <link>/pt-br/projects/python-meta/python-meta/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      
       <guid>/pt-br/projects/python-meta/python-meta/</guid>
       <description>Informações básicas Link para o cabeçalho Tipo: Projeto da graduação - disciplina de Programação Orientada a Objetos II Período de realização: 1º semestre de 2021 Autores: Estudante: Gabriel Eduardo Lima Professor: Hylson Vescovi Netto Sobre Link para o cabeçalho O projeto consiste na verificação e validação dos tipos de dados em tempo de execução de programas Python usando metaprogramação. Dessa forma, é possível impedir que tipos de dados incorretos sejam repassados á funções e métodos de uma classe.</description>
     </item>
-    
     <item>
       <title>Interpretador de sentenças da lógica proposicional</title>
       <link>/pt-br/projects/logic/logic/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      
       <guid>/pt-br/projects/logic/logic/</guid>
       <description>Informações básicas Link para o cabeçalho Tipo: Projeto da graduação - disciplina de Fundamentos da Matemática para Computação Período de realização: 1º semestre de 2020 Autores: Estudante: Gabriel Eduardo Lima Professor: Eder Augusto Penharbel Sobre Link para o cabeçalho A lógica é um importante campo de estudos que permite, por exemplo, aquele que o estude desenvolver argumentos concisos e provar que eles são válidos. Na lógica proposicional, sentenças são construídas através da combinação de propsições, conectivos (ou operadores) e valores booleanos.</description>
     </item>
-    
     <item>
       <title>Simulação física em 2D: Aplicando as leis de Newton</title>
       <link>/pt-br/projects/simulation-poo/simulation-poo/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      
       <guid>/pt-br/projects/simulation-poo/simulation-poo/</guid>
       <description>Informações básicas Link para o cabeçalho Tipo: Projeto da graduação - disciplina de Programação Orientada a Objetos I Período de realização: 2º semestre de 2020 Autores: Estudante: Gabriel Eduardo Lima Professor: Eder Augusto Penharbel Sobre Link para o cabeçalho O tema definido consiste de simulação física 2D. Através de pesquisas a cerca de aspectos de programação como Orientação a Objetos, linguagem C++ e a biblioteca SLD2, juntamente do estudo de diversos aspectos matemáticos e físicos, é possível construir a simulação de um sistema elástico.</description>
     </item>
-    
     <item>
       <title>Programação de caminho para drone usando imagens e python</title>
       <link>/pt-br/projects/drone-path/drone-path/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      
       <guid>/pt-br/projects/drone-path/drone-path/</guid>
       <description>Informações básicas Link para o cabeçalho Tipo: Projeto de ensino médio Período de realização: Ano de 2019 Autores: Estudantes: Gabriel Eduardo Lima e Thiago Vinicius de Oliveira Hornburg Professores: Hylson Vescovi Netto and Deivis Elton Schlickmann Frainer Sobre Link para o cabeçalho O projeto consiste em aplicar conhecimentos de computação e matemática para criar trajetórias automatizadas para drones. A análise e interpretação das imagens é feita por um software implementado em Python (3.</description>
     </item>
-    
     <item>
       <title>DRØMME: Proposta de um jogo de tiro 2D</title>
       <link>/pt-br/projects/dromme/dromme/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      
       <guid>/pt-br/projects/dromme/dromme/</guid>
       <description>Informações básicas Link para o cabeçalho Tipo: Projeto de ensino médio Período de realização: Ano de 2018 Autores: Estudantes: Gabriel Eduardo Lima, Guilherme Eduardo Kuglin, Thiago Vinicius de Oliveira Hornburg e Timóteo Rafael Janzen Professores: Adriano Pessini, Eder Augusto Penharbel e Ricardo de la Rocha Ladeira Sobre Link para o cabeçalho DRØMME consiste de um jogo de tiro 2D simples. Sua temática está situada em um mundo pós-apocalipse zumbi, onde o jogador deve enfrentar e eliminar todos os inimigos progredir de fases.</description>
     </item>
-    
   </channel>
 </rss>
