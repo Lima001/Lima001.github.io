@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -75,7 +76,8 @@
             padding-bottom: 5px;
         }
 
-        .section p, .section ul {
+        .section p,
+        .section ul {
             font-size: 0.95em;
             color: #666;
         }
@@ -91,17 +93,22 @@
 
         /* Main Content */
         .main-content {
-            flex: 1; /* Allow the main content to take up more space */
+            flex: 1;
+            /* Allow the main content to take up more space */
             padding: 30px;
         }
 
-        .summary h3, .publications h3, .research-projects h3 {
+        .summary h3,
+        .publications h3,
+        .research-projects h3 {
             font-size: 1.5em;
             margin-bottom: 15px;
             text-transform: uppercase;
         }
 
-        .summary p, .publications ul, .research-projects p {
+        .summary p,
+        .publications ul,
+        .research-projects p {
             font-size: 1em;
             text-align: justify;
         }
@@ -112,7 +119,8 @@
             margin: 15px 0 10px;
         }
 
-        .publications ul, .research-projects ul {
+        .publications ul,
+        .research-projects ul {
             list-style-type: none;
             padding-left: 0;
         }
@@ -136,16 +144,20 @@
 
         @media (max-width: 768px) {
             .container {
-                flex-direction: column; /* Stack the sidebar and main content vertically */
+                flex-direction: column;
+                /* Stack the sidebar and main content vertically */
             }
+
             .sidebar {
-                border-right: none; /* Remove the border when stacked */
-                border-bottom: 1px solid #ccc; /* Add a bottom border for separation */
+                border-right: none;
+                /* Remove the border when stacked */
+                border-bottom: 1px solid #ccc;
+                /* Add a bottom border for separation */
             }
         }
-
     </style>
 </head>
+
 <body>
     <div class="container">
         <!-- Left Sidebar Section -->
@@ -160,23 +172,27 @@
 
             <div class="section">
                 <h3>Links</h3>
-                <p>Email: <a href="mailto:gelima@inf.ufpr.br">gelima@inf.ufpr.br</a></p>
-                <p><a href="https://github.com/Lima001/" target="_blank">GitHub</a></p>
-                <p><a href="https://lattes.cnpq.br/9977374154873855" target="_blank">Lattes CV (pt-br)</a></p>
-                <p><a href="https://scholar.google.com/citations?user=jlFdjRwAAAAJ&hl=pt-BR" target="_blank">Scholar</a></p>
+                <p>Email: <a href="mailto:gelima@inf.ufpr.br">gelima@inf.ufpr.br</a><br>
+                <p><a href="https://github.com/Lima001/" target="_blank">GitHub</a><br>
+                <p><a href="https://lattes.cnpq.br/9977374154873855" target="_blank">Lattes CV (pt-br)</a><br>
+                <p><a href="https://scholar.google.com/citations?user=jlFdjRwAAAAJ&hl=pt-BR"
+                        target="_blank">Scholar</a><br>
+                <p><a href="https://www.researchgate.net/profile/Gabriel-Lima-81" target="_blank">Research Gate</a></p>
             </div>
 
             <div class="section">
                 <h3>Education</h3>
                 <p>
-                    <a href="https://www.prppg.ufpr.br/site/ppginf/pb/" target="_blank">Master of Science in Informatics</a><br>
+                    <a href="https://www.prppg.ufpr.br/site/ppginf/pb/" target="_blank">Master of Science in
+                        Informatics</a><br>
                     <a href="https://ufpr.br/" target="_blank">Federal University of Paraná</a><br>
                     2024 - Current
                 </p>
                 <br>
                 <p>
                     Bachelor in Computer Science<br>
-                    <a href="https://blumenau.ifc.edu.br/" target="_blank">Instituto Federal Catarinense - Campus Blumenau</a><br>
+                    <a href="https://blumenau.ifc.edu.br/" target="_blank">Instituto Federal Catarinense - Campus
+                        Blumenau</a><br>
                     2020 - 2023
                 </p>
             </div>
@@ -187,35 +203,84 @@
             <div class="summary section">
                 <h3>Summary</h3>
                 <p>
-                    Bachelor in Computer Science from Instituto Federal Catarinense (IFC) - Campus Blumenau. Currently, I'm a master's student in the Graduate Program in Informatics offered by the Federal University of Paraná (UFPR). My interests lie in the field of Artificial Intelligence, with a specific focus on Deep Learning applied to Computer Vision problems.
-                </p>
+                    I hold a Bachelor's degree in Computer Science from Instituto Federal Catarinense (IFC) - Campus
+                    Blumenau. I am currently pursuing a Master's degree in the Graduate Program in Informatics at the
+                    Federal University of Paraná (UFPR). My research interests are focused on Artificial Intelligence,
+                    with a particular emphasis on Deep Learning for Computer Vision applications. </p>
             </div>
 
             <div class="publications section">
                 <h3>Publications</h3>
                 <ul>
-                    <li>&#9733 Lima, G.E., Laroca, R., Santos E., Nascimento Jr. E., Menotti D. <a href="https://ieeexplore.ieee.org/document/10716307" target="_blank">Toward Enhancing Vehicle Color Recognition in Adverse Conditions: A Dataset and Benchmark</a>. <em>2024 37th SIBGRAPI Conference on Graphics, Patterns and Images (SIBGRAPI)</em>. <a href="https://ieeexplore.ieee.org/document/10716307" target="_blank">doi: 10.1109/SIBGRAPI62404.2024.10716307</a>.</li> 
-                    <li>Lima, G.E., Ladeira, R. de la R., Menotti, D. 2024. <a href="https://mepec.blumenau.ifc.edu.br/anais/" target="blank">Comparação entre Métodos Convencionais e de Aprendizado Profundo para Classificação de Imagens Diurnas e Noturnas</a>. <em>Anais da Mostra de Ensino, Pesquisa, Extensão e Cidadania (MEPEC).</em></li>
-                    <li>Lima, G.E., Ladeira, R. de la R. 2024. <a href="https://mepec.blumenau.ifc.edu.br/anais/" target="blank">Eficiência da Paralelização de Convolução no Processamento de Imagens: Um Estudo Empírico</a>. <em>Anais da Mostra de Ensino, Pesquisa, Extensão e Cidadania (MEPEC).</em></li>
-                    <li>Lima, G.E., Ladeira, R. de la R., Penharbel, E.A. 2024. <a href="https://periodicos.univali.br/index.php/acotb/article/view/20346" target="blank">Classificação de Dígitos Manuscritos em Imagens Ruidosas: Explorando o uso e a adaptação conjunta de redes neurais para classificação e remoção de ruído</a>. <em>Anais do Computer on the Beach</em>, 15, 158-164. <a href="https://doi.org/10.14210/cotb.v15.p158-164" target="_blank">doi: 10.14210/cotb.v15.p158-164</a>.</li>
-                    <li>Lima, G.E., Penharbel, E.A. 2023. <a href="https://publicacoes.ifc.edu.br/index.php/MEPEC/article/view/4707" target="blank">Renderização de Curva de Bézier Cúbica: Modelagem Formal e Implementação em OpenGL</a>. <em>Anais da Mostra de Ensino, Pesquisa, Extensão e Cidadania (MEPEC).</em> 5, (nov. 2023).</li>
-                    <li>Lima, G.E., Netto, H.V. 2022. <a href="https://publicacoes.ifc.edu.br/index.php/MEPEC/article/view/3344" target="blank">Uso de reflexão para verificação de tipos dinâmicos em objetos Python</a>. <em>Anais da Mostra de Ensino, Pesquisa, Extensão e Cidadania (MEPEC).</em> 4, (nov. 2022).</li>
-                    <li>Ghellar, C. do N., Lima, G.E., Ladeira, R. de la R. 2022. <a href="https://publicacoes.ifc.edu.br/index.php/micti/article/view/3699" target="blank">TreasureHunt: Análise e Aplicação de Melhorias em um Jogo de Segurança Computacional</a>. <em>Anais da XV Mostra Nacional de Iniciação Científica e Tecnológica Interdisciplinar (MICTI)</em>. 1, (mar. 2023).</li>
-                    <li>Lima, G.E., Ghellar, C. do N., Ladeira, R. de la R. 2022. <a href="https://publicacoes.ifc.edu.br/index.php/MEPEC/article/view/3335" target="blank">Implementação de melhorias em um jogo de segurança computacional</a>. <em>Anais da Mostra de Ensino, Pesquisa, Extensão e Cidadania (MEPEC).</em> 4, (nov. 2022).</li>
-                    <li>Lima, G.E., Nassiffe, R.M., Penharbel, E.A., Bogo, D.L. 2021. <a href="https://publicacoes.ifc.edu.br/index.php/micti/article/view/2451" target="blank">Desenvolvimento de um Robô Bi-Funcional com Aplicação Educacional</a>. <em>Anais da XIV Mostra Nacional de Iniciação Científica e Tecnológica Interdisciplinar (MICTI)</em>. 1, (dez. 2021).</li>
-                    <li>Lima, G.E.; Hornburg T.V.O.; Netto, H.V.; Frainer, D.E.S. 2019. <a href="https://publicacoes.ifc.edu.br/index.php/micti/article/view/1722" target="blank">Sistematização de Drones Aplicada a Resolução de Questões Cotidianas: Produção de Base Teórica e Prática</a>. <em>Anais da XII Mostra Nacional de Iniciação Científica e Tecnológica Interdisciplinar (MICTI)</em>. 1, (fev. 2021). <a href="https://doi.org/10.21166/micti.v1i1.1722" target="_blank">doi: 10.21166/micti.v1i1.1722</a>.</li>
-                    <li>Lima, G.E., Ladeira, R. de la R., Pessini, A., Kuglin, G.E., Hornburg, T.V. de O., Janzen, T.R., Penharbel, E.A. 2019. <a href="https://publicacoes.ifc.edu.br/index.php/MEPEC/article/view/445" target="blank">Drømme: Proposta De Um Jogo 2D do Gênero Tiro</a>. <em>Anais da Mostra de Ensino, Pesquisa, Extensão e Cidadania (MEPEC)</em>. 3, (fev. 2019), 21–22.</li>
+                    <li>&#9733; Lima, G.E., Laroca, R., Santos E., Nascimento Jr. E., Menotti, D. 2024. <a
+                            href="https://ieeexplore.ieee.org/document/10716307" target="_blank">Toward Enhancing
+                            Vehicle Color Recognition Adverse Conditions: A Dataset and Benchmark</a>. in <em>Conference
+                            on Graphics, Patterns and Images (SIBGRAPI)</em>. pp. 1-6. <a
+                            href="https://ieeexplore.ieee.org/document/10716307" target="_blank">doi:
+                            10.1109/SIBGRAPI62404.2024.10716307</a>.</li>
+                    <li>Lima, G.E., Ladeira, R. de la R., Menotti, D. 2024. <a
+                            href="https://mepec.blumenau.ifc.edu.br/anais/" target="blank">Comparação entre Métodos
+                            Convencionais e de Aprendizado Profundo para Classificação de Imagens Diurnas e
+                            Noturnas</a>. in <em>Anais da Mostra de Ensino, Pesquisa, Extensão e Cidadania (MEPEC).</em>
+                    </li>
+                    <li>Lima, G.E., Ladeira, R. de la R. 2024. <a href="https://mepec.blumenau.ifc.edu.br/anais/"
+                            target="blank">Eficiência da Paralelização de Convolução no Processamento de Imagens: Um
+                            Estudo Empírico</a>. in <em>Anais da Mostra de Ensino, Pesquisa, Extensão e Cidadania
+                            (MEPEC).</em></li>
+                    <li>Lima, G.E., Ladeira, R. de la R., Penharbel, E.A. 2024. <a
+                            href="https://periodicos.univali.br/index.php/acotb/article/view/20346"
+                            target="blank">Classificação de Dígitos Manuscritos em Imagens Ruidosas: Explorando o uso e
+                            a adaptação conjunta de redes neurais para classificação e remoção de ruído</a>. in
+                        <em>Anais do Computer on the Beach</em>, v. 15, pp. 158-164. <a
+                            href="https://doi.org/10.14210/cotb.v15.p158-164" target="_blank">doi:
+                            10.14210/cotb.v15.p158-164</a>.</li>
+                    <li>Lima, G.E., Penharbel, E.A. 2023. <a
+                            href="https://publicacoes.ifc.edu.br/index.php/MEPEC/article/view/4707"
+                            target="blank">Renderização de Curva de Bézier Cúbica: Modelagem Formal e Implementação em
+                            OpenGL</a>. in <em>Anais da Mostra de Ensino, Pesquisa, Extensão e Cidadania (MEPEC).</em>
+                        v. 5.</li>
+                    <li>Lima, G.E., Netto, H.V. 2022. <a
+                            href="https://publicacoes.ifc.edu.br/index.php/MEPEC/article/view/3344" target="blank">Uso
+                            de reflexão para verificação de tipos dinâmicos em objetos Python</a>. in <em>Anais da
+                            Mostra de Ensino, Pesquisa, Extensão e Cidadania (MEPEC).</em> v. 4.</li>
+                    <li>Ghellar, C. do N., Lima, G.E., Ladeira, R. de la R. 2022. <a
+                            href="https://publicacoes.ifc.edu.br/index.php/micti/article/view/3699"
+                            target="blank">TreasureHunt: Análise e Aplicação de Melhorias em um Jogo de Segurança
+                            Computacional</a>. in <em>Anais da XV Mostra Nacional de Iniciação Científica e Tecnológica
+                            Interdisciplinar (MICTI)</em>. v. 1, n. 15.</li>
+                    <li>Lima, G.E., Ghellar, C. do N., Ladeira, R. de la R. 2022. <a
+                            href="https://publicacoes.ifc.edu.br/index.php/MEPEC/article/view/3335"
+                            target="blank">Implementação de melhorias em um jogo de segurança computacional</a>. in
+                        <em>Anais da Mostra de Ensino, Pesquisa, Extensão e Cidadania (MEPEC).</em> v. 4.</li>
+                    <li>Lima, G.E., Nassiffe, R.M., Penharbel, E.A., Bogo, D.L. 2021. <a
+                            href="https://publicacoes.ifc.edu.br/index.php/micti/article/view/2451"
+                            target="blank">Desenvolvimento de um Robô Bi-Funcional com Aplicação Educacional</a>. in
+                        <em>Anais da XIV Mostra Nacional de Iniciação Científica e Tecnológica Interdisciplinar
+                            (MICTI)</em>. v. 1, n. 14.</li>
+                    <li>Lima, G.E.; Hornburg T.V.O.; Netto, H.V.; Frainer, D.E.S. 2019. <a
+                            href="https://publicacoes.ifc.edu.br/index.php/micti/article/view/1722"
+                            target="blank">Sistematização de Drones Aplicada a Resolução de Questões Cotidianas:
+                            Produção de Base Teórica e Prática</a>. in <em>Anais da XII Mostra Nacional de Iniciação Científica
+                            e Tecnológica Interdisciplinar (MICTI)</em>. v. 1, n. 12. <a
+                            href="https://doi.org/10.21166/micti.v1i1.1722" target="_blank">doi:
+                            10.21166/micti.v1i1.1722</a>.</li>
+                    <li>Lima, G.E., Ladeira, R. de la R., Pessini, A., Kuglin, G.E., Hornburg, T.V. de O., Janzen, T.R.,
+                        Penharbel, E.A. 2018. <a href="https://publicacoes.ifc.edu.br/index.php/MEPEC/article/view/445"
+                            target="blank">Drømme: Proposta De Um Jogo 2D do Gênero Tiro</a>. in <em>Anais da Mostra de
+                            Ensino, Pesquisa, Extensão e Cidadania (MEPEC)</em>. v. 3, pp. 21–22.</li>
                 </ul>
             </div>
 
             <div class="research-projects section">
                 <h3>Research Projects</h3>
                 <ul>
-                    <li><span style="font-weight: bold;">2022</span>: Computer Security in Education: Use of Treasure Hunt Games as a Pedagogical Tool.</li>
+                    <li><span style="font-weight: bold;">2022</span>: Computer Security Education: Use of Treasure Hunt
+                        Games as a Pedagogical Tool.</li>
                     <li><span style="font-weight: bold;">2021</span>: Development of a Bi-functional Mobile Robot.</li>
                 </ul>
             </div>
         </main>
     </div>
 </body>
+
 </html>
