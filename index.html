@@ -2,285 +2,413 @@
 <html lang="en">
 
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Gabriel E. Lima</title>
-    <style>
-        * {
-            margin: 0;
-            padding: 0;
-            box-sizing: border-box;
-        }
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Gabriel E. Lima</title>
+  <style>
+    * {
+      margin: 0;
+      padding: 0;
+      box-sizing: border-box;
+    }
 
-        body {
-            font-family: Arial, sans-serif;
-            background-color: #f0f0f0;
-            color: #333;
-            line-height: 1.6;
-        }
+    body {
+      font-family: Arial, sans-serif;
+      background-color: #f0f0f0;
+      color: #333;
+      line-height: 1.6;
+    }
 
-        .container {
-            display: flex;
-            max-width: 95%;
-            margin: 30px auto;
-            background-color: #fff;
-            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
-            border-radius: 10px;
-        }
+    .container {
+      display: flex;
+      max-width: 95%;
+      margin: 30px auto;
+      background-color: #fff;
+      box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+      border-radius: 10px;
+    }
 
-        /* Sidebar */
-        .sidebar {
-            flex: 0 0 25%;
-            background-color: #f7f7f7;
-            padding: 30px;
-            border-right: 1px solid #ccc;
-            text-align: left;
-            border-top-left-radius: 10px;
-            border-bottom-left-radius: 10px;
-        }
+    /* Sidebar */
+    .sidebar {
+      flex: 0 0 25%;
+      background-color: #f7f7f7;
+      padding: 30px;
+      border-right: 1px solid #ccc;
+      text-align: left;
+      border-top-left-radius: 10px;
+      border-bottom-left-radius: 10px;
+    }
 
-        .profile-photo {
-            text-align: center;
-            margin-bottom: 20px;
-        }
+    .profile-photo {
+      text-align: center;
+      margin-bottom: 20px;
+    }
 
-        .profile-photo img {
-            width: 120px;
-            height: 120px;
-            border-radius: 50%;
-        }
+    .profile-photo img {
+      width: 120px;
+      height: 120px;
+      border-radius: 50%;
+    }
 
-        .contact-info h1 {
-            font-size: 1.5em;
-            text-align: center;
-            margin-bottom: 5px;
-        }
+    .contact-info h1 {
+      font-size: 1.5em;
+      text-align: center;
+      margin-bottom: 5px;
+    }
 
-        .contact-info h2 {
-            font-size: 1.1em;
-            text-align: center;
-            margin-bottom: 20px;
-            color: #666;
-        }
+    .contact-info h2 {
+      font-size: 1.1em;
+      text-align: center;
+      margin-bottom: 20px;
+      color: #666;
+    }
 
-        .section {
-            margin-bottom: 20px;
-        }
+    .section {
+      margin-bottom: 20px;
+    }
 
-        .section h3 {
-            font-size: 1.2em;
-            margin-bottom: 10px;
-            text-transform: uppercase;
-            font-weight: normal;
-            border-bottom: 2px solid #ccc;
-            padding-bottom: 5px;
-        }
+    .section h3 {
+      font-size: 1.2em;
+      margin-bottom: 10px;
+      text-transform: uppercase;
+      font-weight: normal;
+      border-bottom: 2px solid #ccc;
+      padding-bottom: 5px;
+    }
 
-        .section p,
-        .section ul {
-            font-size: 0.95em;
-            color: #666;
-        }
+    .section p,
+    .section ul {
+      font-size: 0.95em;
+      color: #666;
+    }
 
-        .skills ul {
-            list-style: none;
-            padding-left: 0;
-        }
+    .skills ul {
+      list-style: none;
+      padding-left: 0;
+    }
 
-        .skills ul li {
-            margin-bottom: 10px;
-        }
+    .skills ul li {
+      margin-bottom: 10px;
+    }
 
-        /* Main Content */
-        .main-content {
-            flex: 1;
-            /* Allow the main content to take up more space */
-            padding: 30px;
-        }
+    /* Main Content */
+    .main-content {
+      flex: 1;
+      /* Allow the main content to take up more space */
+      padding: 30px;
+    }
 
-        .summary h3,
-        .publications h3,
-        .research-projects h3 {
-            font-size: 1.5em;
-            margin-bottom: 15px;
-            text-transform: uppercase;
-        }
+    .summary h3,
+    .publications h3,
+    .research-projects h3 {
+      font-size: 1.5em;
+      margin-bottom: 15px;
+      text-transform: uppercase;
+    }
 
-        .summary p,
-        .publications ul,
-        .research-projects p {
-            font-size: 1em;
-            text-align: justify;
-        }
+    .summary p,
+    .publications ul,
+    .research-projects p {
+      font-size: 1em;
+      text-align: justify;
+    }
 
-        .publications h4 {
-            font-size: 1.2em;
-            color: #555;
-            margin: 15px 0 10px;
-        }
+    .publications h4 {
+      font-size: 1.2em;
+      color: #555;
+      margin: 15px 0 10px;
+    }
 
-        .publications ul,
-        .research-projects ul {
-            list-style-type: none;
-            padding-left: 0;
-        }
+    .publications ul,
+    .research-projects ul {
+      list-style-type: none;
+      padding-left: 0;
+    }
 
-        .publications li {
-            margin-bottom: 15px;
-        }
+    .publications li {
+      margin-bottom: 15px;
+    }
 
-        .research-projects {
-            margin-top: 20px;
-        }
+    .research-projects {
+      margin-top: 20px;
+    }
 
-        a {
-            color: #002cbb;
-            text-decoration: none;
-        }
+    a {
+      color: #002cbb;
+      text-decoration: none;
+    }
 
-        a:hover {
-            text-decoration: underline;
-        }
+    a:hover {
+      text-decoration: underline;
+    }
 
-        @media (max-width: 768px) {
-            .container {
-                flex-direction: column;
-                /* Stack the sidebar and main content vertically */
-            }
+    /* Selected Publications Format */
+    .publication {
+      display: flex;
+      margin-bottom: 30px;
+      gap: 15px;
+      align-items: center;
+    }
 
-            .sidebar {
-                border-right: none;
-                /* Remove the border when stacked */
-                border-bottom: 1px solid #ccc;
-                /* Add a bottom border for separation */
-            }
-        }
-    </style>
+    .pub-thumbnail {
+      width: 140px;
+      height: 90px;
+      background-color: #f9f9f9;
+      border: 1px solid #ccc;
+      border-radius: 4px;
+      padding: 4px;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      position: relative;
+      overflow: hidden;
+    }
+
+    .pub-thumbnail img {
+      max-width: 100%;
+      max-height: 100%;
+      object-fit: contain;
+    }
+
+    .pub-tag {
+      position: absolute;
+      top: 0px;
+      left: 0px;
+      background: #0073e6;
+      color: white;
+      padding: 2px 8px;
+      font-size: 0.75em;
+      border-radius: 4px;
+    }
+
+    .pub-info p {
+      margin: 5px 0;
+    }
+
+    .pub-links a {
+      margin-right: 10px;
+      font-size: 0.9em;
+      color: #0073e6;
+      text-decoration: none;
+    }
+
+    .pub-links a:hover {
+      text-decoration: underline;
+    }
+
+    /* Links Grid */
+    .links-grid {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 10px;
+    }
+
+
+    @media (max-width: 768px) {
+      .container {
+        flex-direction: column;
+        /* Stack the sidebar and main content vertically */
+      }
+
+      .sidebar {
+        border-right: none;
+        /* Remove the border when stacked */
+        border-bottom: 1px solid #ccc;
+        /* Add a bottom border for separation */
+      }
+
+      .publication {
+        flex-direction: column;
+        align-items: center;
+        text-align: center;
+      }
+
+      .pub-thumbnail {
+        width: 100%;
+        height: auto;
+      }
+
+      .pub-thumbnail img {
+        width: 100%;
+        height: auto;
+      }
+
+      .pub-info {
+        text-align: left;
+      }
+
+      .links-grid {
+        grid-template-columns: 1fr;
+      }
+    }
+  </style>
 </head>
 
 <body>
-    <div class="container">
-        <!-- Left Sidebar Section -->
-        <aside class="sidebar">
-            <div class="profile-photo">
-                <img src="images/profile-photo.jpg" alt="Gabriel E. Lima perfil image">
-            </div>
-            <div class="contact-info">
-                <h1>Gabriel Eduardo Lima</h1>
-                <h2>Master's Student</h2>
-            </div>
+  <div class="container">
+    <!-- Left Sidebar Section -->
+    <aside class="sidebar">
+      <div class="profile-photo">
+        <img src="files/img/photo.png" alt="Gabriel E. Lima perfil image">
+      </div>
+      <div class="contact-info">
+        <h1>Gabriel Eduardo Lima</h1>
+      </div>
 
-            <div class="section">
-                <h3>Links</h3>
-                <p>Email: <a href="mailto:gelima@inf.ufpr.br">gelima@inf.ufpr.br</a><br>
-                <p><a href="https://github.com/Lima001/" target="_blank">GitHub</a><br>
-                <p><a href="https://lattes.cnpq.br/9977374154873855" target="_blank">Lattes CV (pt-br)</a><br>
-                <p><a href="https://scholar.google.com/citations?user=jlFdjRwAAAAJ&hl=pt-BR"
-                        target="_blank">Scholar</a><br>
-                <p><a href="https://www.researchgate.net/profile/Gabriel-Lima-81" target="_blank">Research Gate</a></p>
-            </div>
+      <div class="section">
+        <h3>Links</h3>
+        <div class="links-grid">
+          <p>Email:<br><a href="mailto:gelima@inf.ufpr.br">gelima@inf.ufpr.br</a></p>
+          <p>CV:<br><a href="https://lattes.cnpq.br/9977374154873855" target="_blank">Lattes (pt-br)</a></p>
+          <p>Academics:<br><a href="https://scholar.google.com/citations?user=jlFdjRwAAAAJ&hl=pt-BR"
+              target="_blank">Scholar</a><br>
+            <a href="https://www.researchgate.net/profile/Gabriel-Lima-81" target="_blank">ResearchGate</a>
+          </p>
+          <p>GitHub:<br><a href="https://github.com/Lima001/" target="_blank">Lima001</a></p>
+          </p>
+        </div>
+      </div>
 
-            <div class="section">
-                <h3>Education</h3>
-                <p>
-                    <a href="https://www.prppg.ufpr.br/site/ppginf/pb/" target="_blank">Master of Science in
-                        Informatics</a><br>
-                    <a href="https://ufpr.br/" target="_blank">Federal University of Paraná</a><br>
-                    2024 - Current
-                </p>
-                <br>
-                <p>
-                    Bachelor in Computer Science<br>
-                    <a href="https://blumenau.ifc.edu.br/" target="_blank">Instituto Federal Catarinense - Campus
-                        Blumenau</a><br>
-                    2020 - 2023
-                </p>
-            </div>
-        </aside>
+      <div class="section">
+        <h3>Education</h3>
+        <p>
+          <a href="https://www.prppg.ufpr.br/site/ppginf/pb/" target="_blank">Ph.D. in Computer Science</a><br>
+          <a href="https://ufpr.br/" target="_blank">Federal University of Paraná</a><br>
+          2024 - Current
+        </p>
+        <br>
+        <p>
+          B.Sc. in Computer Science<br>
+          <a href="https://blumenau.ifc.edu.br/" target="_blank">Instituto Federal Catarinense - Campus
+            Blumenau</a><br>
+          2020 - 2023
+        </p>
+      </div>
+    </aside>
 
-        <!-- Main Content Section -->
-        <main class="main-content">
-            <div class="summary section">
-                <h3>Summary</h3>
-                <p>
-                    I hold a Bachelor's degree in Computer Science from Instituto Federal Catarinense (IFC) - Campus
-                    Blumenau. I am currently pursuing a Master's degree in the Graduate Program in Informatics at the
-                    Federal University of Paraná (UFPR). My research interests are focused on Artificial Intelligence,
-                    with a particular emphasis on Deep Learning for Computer Vision applications. </p>
-            </div>
+    <!-- Main Content Section -->
+    <main class="main-content">
+      <div class="summary section">
+        <h3>About me</h3>
+        <p>
+          Bachelor of Science in Computer Science from Instituto Federal Catarinense (IFC) - Campus Blumenau. Joined the
+          Informatics Graduate Program (PPGInf) at the Federal University of Paraná (UFPR) as a Master's student in
+          2024, accelerating directly into the Ph.D. in Computer Science in June 2025. My graduate research studies deep
+          learning-driven computer vision methodologies for Intelligent Transport Systems (ITS). </p>
+      </div>
 
-            <div class="publications section">
-                <h3>Publications</h3>
-                <ul>
-                    <li>&#9733; Lima, G.E., Laroca, R., Santos E., Nascimento Jr. E., Menotti, D. 2024. <a
-                            href="https://ieeexplore.ieee.org/document/10716307" target="_blank">Toward Enhancing
-                            Vehicle Color Recognition Adverse Conditions: A Dataset and Benchmark</a>. in <em>Conference
-                            on Graphics, Patterns and Images (SIBGRAPI)</em>. pp. 1-6. <a
-                            href="https://ieeexplore.ieee.org/document/10716307" target="_blank">doi:
-                            10.1109/SIBGRAPI62404.2024.10716307</a>.</li>
-                    <li>Lima, G.E., Ladeira, R. de la R., Menotti, D. 2024. <a
-                            href="https://mepec.blumenau.ifc.edu.br/anais/" target="blank">Comparação entre Métodos
-                            Convencionais e de Aprendizado Profundo para Classificação de Imagens Diurnas e
-                            Noturnas</a>. in <em>Anais da Mostra de Ensino, Pesquisa, Extensão e Cidadania (MEPEC).</em>
-                    </li>
-                    <li>Lima, G.E., Ladeira, R. de la R. 2024. <a href="https://mepec.blumenau.ifc.edu.br/anais/"
-                            target="blank">Eficiência da Paralelização de Convolução no Processamento de Imagens: Um
-                            Estudo Empírico</a>. in <em>Anais da Mostra de Ensino, Pesquisa, Extensão e Cidadania
-                            (MEPEC).</em></li>
-                    <li>Lima, G.E., Ladeira, R. de la R., Penharbel, E.A. 2024. <a
-                            href="https://periodicos.univali.br/index.php/acotb/article/view/20346"
-                            target="blank">Classificação de Dígitos Manuscritos em Imagens Ruidosas: Explorando o uso e
-                            a adaptação conjunta de redes neurais para classificação e remoção de ruído</a>. in
-                        <em>Anais do Computer on the Beach</em>, v. 15, pp. 158-164. <a
-                            href="https://doi.org/10.14210/cotb.v15.p158-164" target="_blank">doi:
-                            10.14210/cotb.v15.p158-164</a>.</li>
-                    <li>Lima, G.E., Penharbel, E.A. 2023. <a
-                            href="https://publicacoes.ifc.edu.br/index.php/MEPEC/article/view/4707"
-                            target="blank">Renderização de Curva de Bézier Cúbica: Modelagem Formal e Implementação em
-                            OpenGL</a>. in <em>Anais da Mostra de Ensino, Pesquisa, Extensão e Cidadania (MEPEC).</em>
-                        v. 5.</li>
-                    <li>Lima, G.E., Netto, H.V. 2022. <a
-                            href="https://publicacoes.ifc.edu.br/index.php/MEPEC/article/view/3344" target="blank">Uso
-                            de reflexão para verificação de tipos dinâmicos em objetos Python</a>. in <em>Anais da
-                            Mostra de Ensino, Pesquisa, Extensão e Cidadania (MEPEC).</em> v. 4.</li>
-                    <li>Ghellar, C. do N., Lima, G.E., Ladeira, R. de la R. 2022. <a
-                            href="https://publicacoes.ifc.edu.br/index.php/micti/article/view/3699"
-                            target="blank">TreasureHunt: Análise e Aplicação de Melhorias em um Jogo de Segurança
-                            Computacional</a>. in <em>Anais da XV Mostra Nacional de Iniciação Científica e Tecnológica
-                            Interdisciplinar (MICTI)</em>. v. 1, n. 15.</li>
-                    <li>Lima, G.E., Ghellar, C. do N., Ladeira, R. de la R. 2022. <a
-                            href="https://publicacoes.ifc.edu.br/index.php/MEPEC/article/view/3335"
-                            target="blank">Implementação de melhorias em um jogo de segurança computacional</a>. in
-                        <em>Anais da Mostra de Ensino, Pesquisa, Extensão e Cidadania (MEPEC).</em> v. 4.</li>
-                    <li>Lima, G.E., Nassiffe, R.M., Penharbel, E.A., Bogo, D.L. 2021. <a
-                            href="https://publicacoes.ifc.edu.br/index.php/micti/article/view/2451"
-                            target="blank">Desenvolvimento de um Robô Bi-Funcional com Aplicação Educacional</a>. in
-                        <em>Anais da XIV Mostra Nacional de Iniciação Científica e Tecnológica Interdisciplinar
-                            (MICTI)</em>. v. 1, n. 14.</li>
-                    <li>Lima, G.E.; Hornburg T.V.O.; Netto, H.V.; Frainer, D.E.S. 2019. <a
-                            href="https://publicacoes.ifc.edu.br/index.php/micti/article/view/1722"
-                            target="blank">Sistematização de Drones Aplicada a Resolução de Questões Cotidianas:
-                            Produção de Base Teórica e Prática</a>. in <em>Anais da XII Mostra Nacional de Iniciação Científica
-                            e Tecnológica Interdisciplinar (MICTI)</em>. v. 1, n. 12. <a
-                            href="https://doi.org/10.21166/micti.v1i1.1722" target="_blank">doi:
-                            10.21166/micti.v1i1.1722</a>.</li>
-                    <li>Lima, G.E., Ladeira, R. de la R., Pessini, A., Kuglin, G.E., Hornburg, T.V. de O., Janzen, T.R.,
-                        Penharbel, E.A. 2018. <a href="https://publicacoes.ifc.edu.br/index.php/MEPEC/article/view/445"
-                            target="blank">Drømme: Proposta De Um Jogo 2D do Gênero Tiro</a>. in <em>Anais da Mostra de
-                            Ensino, Pesquisa, Extensão e Cidadania (MEPEC)</em>. v. 3, pp. 21–22.</li>
-                </ul>
-            </div>
+      <div class="publications section">
+        <h3>Selected Publications</h3>
 
-            <div class="research-projects section">
-                <h3>Research Projects</h3>
-                <ul>
-                    <li><span style="font-weight: bold;">2022</span>: Computer Security Education: Use of Treasure Hunt
-                        Games as a Pedagogical Tool.</li>
-                    <li><span style="font-weight: bold;">2021</span>: Development of a Bi-functional Mobile Robot.</li>
-                </ul>
+        <div class="publication">
+          <div class="pub-thumbnail">
+            <img src="files/thumbs/nascimento2025toward.jpg" alt="">
+            <div class="pub-tag">2025</div>
+          </div>
+          <div class="pub-info">
+            <p><a href="https://journals-sol.sbc.org.br/index.php/jbcs/article/view/5159" target="_blank">Toward
+                Advancing
+                License Plate Super-Resolution in Real-World Scenarios: A Dataset and Benchmark</a></p>
+            <p>Nascimento, V., Lima, G.E., Ribeiro, R.O., Schwartz, W.R., Laroca, R., Menotti, D</p>
+            <p><em>Journal of the Brazilian Computer Society</em></p>
+            <div class="pub-links">
+              <a href="https://github.com/valfride/UFPR-SR-Plates" target="_blank">[UFPR-SR Plates Dataset]</a>
+              <a href="files/bibtex/nascimento2025toward.txt" target="_blank">[BibTeX]</a>
             </div>
-        </main>
-    </div>
+          </div>
+        </div>
+
+        <div class="publication">
+          <div class="pub-thumbnail">
+            <img src="files/thumbs/lima2024toward.png" alt="">
+            <div class="pub-tag">2024</div>
+          </div>
+          <div class="pub-info">
+            <p><a href="https://ieeexplore.ieee.org/document/10716307" target="_blank">Toward Enhancing Vehicle Color
+                Recognition in Adverse Conditions: A Dataset and Benchmark</a></p>
+            <p>Lima, G.E., Laroca, R., Santos E., Nascimento Jr. E., Menotti, D.</p>
+            <p><em>Conference on Graphics, Patterns and Images (SIBGRAPI)</em></p>
+            <div class="pub-links">
+              <a href="https://github.com/lima001/ufpr-vcr-dataset">[UFPR-VCR Dataset]</a>
+              <a href="files/slide/lima2024toward.pdf" target="_blank">[Slides]</a>
+              <a href="files/bibtex/lima2024toward.txt" target="_blank">[BibTeX]</a>
+            </div>
+          </div>
+        </div>
+
+        <div class="publication">
+          <div class="pub-thumbnail">
+            <img src="files/thumbs/lima2024improving.jpg" alt="">
+            <div class="pub-tag">2024</div>
+          </div>
+          <div class="pub-info">
+            <p><a href="https://sol.sbc.org.br/index.php/sibgrapi_estendido/article/view/31656"
+                target="_blank">Improving
+                Vehicle Identification Through Advanced Fine-Grained Vehicle
+                Classification</a></p>
+            <p>Lima, G.E., Laroca, R., Santos E., Nascimento Jr. E., Menotti, D.</p>
+            <p><em>Conference on Graphics, Patterns and Images (SIBGRAPI) / Work in Progress</em></p>
+            <div class="pub-links">
+              <a href="files/slide/lima2024improving.pdf" target="_blank">[Slides]</a>
+              <a href="files/bibtex/lima2024improving.txt" target="_blank">[BibTeX]</a>
+            </div>
+          </div>
+        </div>
+
+        <div class="publication">
+          <div class="pub-thumbnail">
+            <img src="files/thumbs/santos2024enhancing.jpg" alt="">
+            <div class="pub-tag">2024</div>
+          </div>
+          <div class="pub-info">
+            <p><a href="https://sol.sbc.org.br/index.php/sibgrapi_estendido/article/view/31656"
+                target="_blank">Enhancing
+                Vehicle Identification in Challenging Conditions Through
+                Fine-Grained Classification</a></p>
+            <p>Santos E., Lima, G.E., Laroca, R., Nascimento Jr. E., Menotti, D.</p>
+            <p><em>Conference on Graphics, Patterns and Images (SIBGRAPI) / Work in Progress</em></p>
+            <div class="pub-links">
+              <a href="files/slide/santos2024enhancing.pdf" target="_blank">[Slides]</a>
+              <a href="files/bibtex/santos2024enhancing.txt" target="_blank">[BibTeX]</a>
+            </div>
+          </div>
+        </div>
+
+        <div class="publication">
+          <div class="pub-thumbnail">
+            <img src="files/thumbs/lima2024digitos.jpg" alt="">
+            <div class="pub-tag">2024</div>
+          </div>
+          <div class="pub-info">
+            <p><a href="https://periodicos.univali.br/index.php/acotb/article/view/20346" target="_blank">Classificação
+                de Dígitos Manuscritos em Imagens Ruidosas: Explorando o Uso e a Adaptação Conjunta de Redes Neurais
+                para Classificação e Remoção de Ruído</a></p>
+            <p>Lima, G.E., Ladeira, R. de la R., Penharbel, E.A.</p>
+            <p><em>Computer on the Beach</em></p>
+            <div class="pub-links">
+              <a href="#" target="_blank">[Slide]</a>
+              <a href="files/bibtex/lima2024digitos.txt" target="_blank">[BibTeX]</a>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <div class="buttons">
+        <a href="appendix-publications.html">[See the full list of publications]</span></a>
+      </div>
+
+      <div class="research-projects section">
+        <h3>Research Projects</h3>
+        <ul>
+          <li><span style="font-weight: bold;">2022-2022</span>: Computer Security Education: Use of Treasure
+            Hunt
+            Games as a Pedagogical Tool.</li>
+          <li><span style="font-weight: bold;">2021-2021</span>: Development of a Bi-functional Mobile Robot.
+          </li>
+        </ul>
+      </div>
+    </main>
+  </div>
 </body>
 
 </html>

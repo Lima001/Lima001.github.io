@@ -1,0 +1,11 @@
+@inproceedings{lima2024improving,
+  title = {Enhancing Vehicle Identification in Challenging Conditions Through Fine-Grained Classification },
+  author = {E. {Santos} and G. E. {Lima} and R. {Laroca} and E. {Nascimento Jr.} and D. {Menotti}},
+  year = {2024},
+  month = {Sept},
+  booktitle = {Conference on Graphics, Patterns and Images (SIBGRAPI)},
+  volume = {},
+  number = {},
+  pages={129--134}
+  doi = {10.5753/sibgrapi.est.2024.31657},
+}
