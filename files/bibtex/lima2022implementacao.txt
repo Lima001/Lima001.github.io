@@ -1,0 +1,10 @@
+@article{lima2022implementacao, 
+title={Implementação de melhorias em um jogo de segurança computacional}, 
+volume={4}, 
+url={https://publicacoes.ifc.edu.br/index.php/MEPEC/article/view/3335}, 
+journal={Anais da Mostra de Ensino, Pesquisa, Extensão e Cidadania (MEPEC)}, 
+author={Lima, Gabriel Eduardo and Ghellar, Camily do Nascimento and Ladeira, Ricardo de la Rocha}, 
+year={2022}, 
+month={nov.},
+issn={2596-0954}
+}

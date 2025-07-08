@@ -1,0 +1,10 @@
+@article{lima2024comparacao, 
+title={Comparação entre Métodos Convencionais e de Aprendizado Profundo para Classificação de Imagens Diurnas e Noturnas}, 
+volume={6}, 
+url={https://publicacoes.ifc.edu.br/index.php/MEPEC/article/view/5956}, 
+journal={Anais da Mostra de Ensino, Pesquisa, Extensão e Cidadania (MEPEC)}, 
+author={Lima, Gabriel Eduardo and Ladeira, Ricardo de la Rocha and Menotti, David}, 
+year={2024}, 
+month={dez.},
+issn{2596-0954}
+}

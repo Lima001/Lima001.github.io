@@ -1,0 +1,9 @@
+@article{lima2019sistematizacao,
+  title={Sistematização de Drones Aplicada a Resolução De Questões Cotidianas: Produção de Base Teórica e Prática},
+  author={Lima, Gabriel Eduardo and de Oliveira Hornburg, Thiago Vinicius and Frainer, Deivis Elton Schlickmann and Netto, Hylson Vescovi},
+  journal={Anais da Mostra Nacional de Iniciação Científica e Tecnológica Interdisciplinar (MICTI)},
+  volume={1},
+  number={12},
+  year={2019},
+  issn={2316-7165}
+}

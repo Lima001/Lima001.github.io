@@ -1,0 +1,11 @@
+@article{riffel2018comparacao, 
+    title={Comparação entre Sistemas de Energias Renováveis}, 
+    volume={2}, 
+    url={https://publicacoes.ifc.edu.br/index.php/MEPEC/article/view/309},  
+    journal={Anais da Mostra de Ensino, Pesquisa, Extensão e Cidadania (MEPEC)}, 
+    author={Riffel, Diogo and Eduardo Lima, Gabriel and Eduardo Kuglin, Guilherme and de Oliveira Hornburg, Thiago Vinicius and Rafael Janzen, Timóteo and Larsen Bogo, Damian and Schlickmann Frainer, Deivis Elton and Nunes, Sara}, 
+    year={2018}, 
+    month={jun.}, 
+    pages={201}, 
+    issn={2596-0954}
+}

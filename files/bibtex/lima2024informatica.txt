@@ -1,0 +1,11 @@
+@article{lima2024informatica, 
+    title={Informática na Educação: Um Levantamento de Características Tecnológicas que Impactam no Ensino}, 
+    volume={},
+    number={19} 
+    journal={Revista Vias Reflexivas}, 
+    author={Lima, Gabriel Eduardo and Ladeira, Ricardo de la Rocha}, 
+    year={2024}, 
+    month={nov.},
+    pages={79--91} 
+    issn={176-641X}
+}
