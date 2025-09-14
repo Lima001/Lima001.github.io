@@ -3,7 +3,7 @@
   author = {G. E. {Lima} and R. {Laroca} and E. {Santos} and E. {Nascimento Jr.} and D. {Menotti}},
   year = {2024},
   month = {Sept},
-  booktitle = {Anais Estendidos Conference on Graphics, Patterns and Images (SIBGRAPI)},
+  booktitle = {Anais Estendidos da XXXVII Conference on Graphics, Patterns and Images (SIBGRAPI)},
   volume = {},
   number = {},
   pages={123--128}
