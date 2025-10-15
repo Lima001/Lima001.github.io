@@ -1,0 +1,12 @@
+@inproceedings{carvalho2025noobgpt,
+    author={Gustavo Carvalho and Ricardo Ladeira and Gabriel Lima},
+    title={NoobGPT: LLMs e a geração de malwares indetectáveis},
+    booktitle={Anais do XVI Workshop de Sistemas de Informação},
+    location={Rio Paranaíba/MG},
+    year={2025},
+    pages={220--225},
+    publisher={SBC},
+    address={Porto Alegre, RS, Brasil},
+    doi={10.5753/wsis.2025.15064},
+    url={https://sol.sbc.org.br/index.php/wsis/article/view/37648}
+}
