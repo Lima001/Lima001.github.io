@@ -1,0 +1,14 @@
+@inproceedings{carvalho2025generating,
+ author = {Gustavo Carvalho and Ricardo Ladeira and Gabriel Lima},
+ title = {Generating Malware Using Large Language Models: A Study on Detectability and Security Barriers},
+ booktitle = {Anais da XXII Escola Regional de Redes de Computadores},
+ location = {Porto Alegre/RS},
+ year = {2025},
+ keywords = {},
+ issn = {0000-0000},
+ pages = {116--122},
+ publisher = {SBC},
+ address = {Porto Alegre, RS, Brasil},
+ doi = {10.5753/errc.2025.17690},
+ url = {https://sol.sbc.org.br/index.php/errc/article/view/39191}
+}

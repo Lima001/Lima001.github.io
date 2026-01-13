@@ -1,0 +1,14 @@
+@inproceedings{ladeira2025cybersecurity,
+ author = {Ricardo Ladeira and Gabriel Lima},
+ title = {Cybersecurity in Computer Science Curricula of Federal Educational Institutions in Southern Brazil},
+ booktitle = {Anais da XXII Escola Regional de Redes de Computadores},
+ location = {Porto Alegre/RS},
+ year = {2025},
+ keywords = {},
+ issn = {0000-0000},
+ pages = {109--115},
+ publisher = {SBC},
+ address = {Porto Alegre, RS, Brasil},
+ doi = {10.5753/errc.2025.17398},
+ url = {https://sol.sbc.org.br/index.php/errc/article/view/39190}
+}
