@@ -1,11 +1,10 @@
 @article{lima2024informatica, 
-    title={Informática na Educação: Um Levantamento de Características Tecnológicas que Impactam no Ensino}, 
-    volume={},
-    number={19} 
-    journal={Revista Vias Reflexivas}, 
-    author={Lima, Gabriel Eduardo and Ladeira, Ricardo de la Rocha}, 
-    year={2024}, 
-    month={nov.},
-    pages={79--91} 
-    issn={176-641X}
+    title = {Inform\'{a}tica na Educa\c{c}\~{a}o: Um Levantamento de Caracter\'{i}sticas Tecnol\'{o}gicas que Impactam no Ensino}, 
+    author = {Gabriel Eduardo {Lima} and \'{A}lvaro Alvin Oesterreich {Santos} and Ricardo {Ladeira}}, 
+    journal = {Revista Vias Reflexivas}, 
+    issn = {176-641X},
+    number = {19}, 
+    pages = {79-91},
+    year = {2024}, 
+    url = {https://fmpsc.edu.br/wp-content/uploads/2025/03/revista.pdf}
 }

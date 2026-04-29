@@ -1,10 +1,9 @@
-@article{lima2022reflexao, 
-    title={Uso de Reflexão para Verificação de Tipos Dinâmicos em Objetos Python}, 
-    volume={4}, 
-    url={https://publicacoes.ifc.edu.br/index.php/MEPEC/article/view/3344}, 
-    journal={Anais da Mostra de Ensino, Pesquisa, Extensão e Cidadania (MEPEC)}, 
-    author={Lima, Gabriel Eduardo and Netto, Hylson Vescovi}, 
-    year={2022}, 
-    month={nov.},
-    issn={2596-0954} 
+@inproceedings{lima2022reflexao, 
+    title = {Uso de Reflexão para Verificação de Tipos Dinâmicos em Objetos Python}, 
+    author = {Gabriel Eduardo {Lima} and Hylson Vescovi {Netto}}, 
+    booktitle = {Mostra de Ensino, Pesquisa, Extens\~{a}o e Cidadania (MEPEC)}, 
+    issn = {2596-0954},
+    volume = {4}, 
+    year = {2022}, 
+    url = {https://publicacoes.ifc.edu.br/index.php/MEPEC/article/view/3344}
 }

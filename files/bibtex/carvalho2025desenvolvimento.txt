@@ -1,14 +1,8 @@
-@inproceedings{eries,
- author = {Gustavo Carvalho and Ricardo Ladeira and Gabriel Lima},
- title = { Desenvolvimento de malware utilizando o prompt AIM no ChatGPT},
- booktitle = {Anais da X Escola Regional de Informática do Espírito Santo},
- location = {Espírito Santo/ES},
- year = {2025},
- keywords = {},
- issn = {0000-0000},
- pages = {120--123},
- publisher = {SBC},
- address = {Porto Alegre, RS, Brasil},
- doi = {10.5753/eries.2025.14922},
- url = {https://sol.sbc.org.br/index.php/eries/article/view/38239}
+@inproceedings{carvalho2025desenvolvimento,
+    title = {Desenvolvimento de Malware Utilizando o Prompt {AIM} no {ChatGPT}},
+    author = {Gustavo {Carvalho} and Ricardo {Ladeira} and Gabriel Eduardo {Lima}},
+    booktitle = {Escola Regional de Inform\'{a}tica do Esp\'{i}rito Santo (ERI-ES) - Resumos Expandidos},
+    pages = {120-123},
+    year = {2025},
+    doi = {10.5753/eries.2025.14922}
 }

@@ -1,8 +1,10 @@
-@article{lima2021desenvolvimento,
-  title={Desenvolvimento de um Robô Bi-funcional com Aplicação Educacional},
-  author={Lima, Gabriel Eduardo and Nassiffe, R{\'\i}ad Mattos and Penharbel, Eder Augusto and Bogo, Damian Larsen},
-  journal={Anais da Mostra Nacional de Iniciação Científica e Tecnológica Interdisciplinar (MICTI)},
-  volume={1},
-  number={14},
-  year={2021}
+@inproceedings{lima2021desenvolvimento,
+	title = {Desenvolvimento de um Rob\^{o} Bi-funcional com Aplicação Educacional},
+	author = {Gabriel Eduardo {Lima} and R{\'\i}ad Mattos {Nassiffe} and Eder Augusto {Penharbel} and Damian Larsen {Bogo}},
+	booktitle = {Mostra Nacional de Inicia\c{c}\~{a}o Cient\'{i}fica e Tecnol\'{o}gica Interdisciplinar (MICTI)},
+	issn = {2316-7165},
+	volume = {1},
+	number = {14},
+	year = {2021},
+	url = {https://publicacoes.ifc.edu.br/index.php/micti/article/view/2451}
 }

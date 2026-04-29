@@ -1,11 +1,9 @@
-@article{carvalho2025modelos, 
-    title={Modelos de Linguagem como Vetores para Geração de Códigos Maliciosos: Um Estudo sobre Detectabilidade e Barreiras de Segurança}, 
-    volume={7}, 
-    url={https://centraldeeventos.ifc.edu.br/anais/mepec2025/1269462-modelos-de-linguagem-como-vetores-para-geracao-de-codigos-maliciosos--um-estudo-sobre--detectabilidade-e-barreir/},  
-    journal={Anais da Mostra de Ensino, Pesquisa, Extensão e Cidadania (MEPEC)}, 
-    author={Gustavo Carvalho and Ricardo Ladeira and Gabriel Lima}, 
-    year={2025}, 
-    month={nov.}, 
-    pages={1}, 
-    issn={2596-0954}
+@inproceedings{carvalho2025modelos, 
+    title = {Modelos de Linguagem como Vetores para Geração de C\'{o}digos Maliciosos: Um Estudo sobre Detectabilidade e Barreiras de Seguran\c{c}a}, 
+    author = {Gustavo {Carvalho} and Ricardo {Ladeira} and Gabriel Eduardo {Lima}}, 
+    booktitle = {Mostra de Ensino, Pesquisa, Extens\~{a}o e Cidadania (MEPEC)},
+    issn = {2596-0954},
+    pages = {1},
+    year = {2025},
+    url = {https://centraldeeventos.ifc.edu.br/anais/mepec2025/1269462-modelos-de-linguagem-como-vetores-para-geracao-de-codigos-maliciosos--um-estudo-sobre--detectabilidade-e-barreir/}
 }

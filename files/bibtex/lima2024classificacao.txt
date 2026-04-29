@@ -1,8 +1,9 @@
-@article{lima2024classificaccao,
-  title={Classificação de Dígitos Manuscritos em Imagens Ruidosas: Explorando o Uso e a Adaptação Conjunta de Redes Neurais para Classificação e Remoção de Ruído},
-  author={Lima, Gabriel Eduardo and Ladeira, Ricardo De La Rocha and Penharbel, {\'E}der Augusto},
-  journal={Anais do Computer on the Beach},
-  volume={15},
-  pages={158--164},
-  year={2024}
+@inproceedings{lima2024classificaccao,
+    title = {Classifica\c{c}\~{a}o de D\'{i}gitos Manuscritos em Imagens Ruidosas: Explorando o Uso e a Adapta\c{c}\~{a}o Conjunta de Redes Neurais para Classifica\c{c}\~{a}o e Remo\c{c}\~{a}o de Ru\'{i}do},
+    author = {Gabriel Eduardo {Lima} and Ricardo De La Rocha {Ladeira} and Eder Augusto {Penharbel}},
+    booktitle = {Computer on the Beach (COTB)},
+    volume = {15},
+    pages = {158-164},
+    year = {2024},
+    doi = {10.14210/cotb.v15.p158-164}
 }

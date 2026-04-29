@@ -1,10 +1,9 @@
-@article{lima2024eficiencia, 
-    title={Eficiência da Paralelização de Convolução no Processamento de Imagens: Um Estudo Empírico}, 
-    volume={6}, 
-    url={https://publicacoes.ifc.edu.br/index.php/MEPEC/article/view/5931}, 
-    journal={Anais da Mostra de Ensino, Pesquisa, Extensão e Cidadania (MEPEC)}, 
-    author={Lima, Gabriel Eduardo and Ladeira, Ricardo de la Rocha}, 
-    year={2024}, 
-    month={dez.}, 
-    issn={2596-0954}
+@inproceedings{lima2024eficiencia, 
+    title = {Efici\^{e}ncia da Paralelização de Convolu\c{c}\~{a}o no Processamento de Imagens: Um Estudo Emp\'{i}rico}, 
+    author = {Gabriel Eduardo {Lima} and Ricardo {Ladeira}}, 
+    booktitle = {Mostra de Ensino, Pesquisa, Extens\~{a}o e Cidadania (MEPEC)}, 
+    issn = {2596-0954},
+    volume = {6}, 
+    year = {2024}, 
+    url = {https://publicacoes.ifc.edu.br/index.php/MEPEC/article/view/5931}
 }

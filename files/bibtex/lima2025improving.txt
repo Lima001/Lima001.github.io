@@ -1,9 +1,8 @@
 @inproceedings{lima2025improving,
-title     = {Improving Fine-Grained Vehicle Classification via Multitask Learning and Hierarchical Consistency},
-  author    = {G. E. {Lima} and E. {Santos} and E. {Nascimento Jr.} and R. {Laroca} and D. {Menotti}},
-  year      = {2025},
-  month     = {Oct},
-  booktitle = {Anais Estendidos da XXXVIII Conference on Graphics, Patterns and Images (SIBGRAPI)},
-  pages     = {1-6},
-  doi       = {}
+    title = {Improving Fine-Grained Vehicle Classification via Multitask Learning and Hierarchical Consistency},
+    author = {G. E. {Lima} and E. {Santos} and E. {Nascimento Jr.} and R. {Laroca} and D. {Menotti}},
+    booktitle = {Conference on Graphics, Patterns and Images (SIBGRAPI) - Workshop of Works in Progress (WiP)},
+    pages = {1-6},
+    year  = {2025},
+    doi = {10.5753/sibgrapi.est.2025.38289}
 }

@@ -1,11 +1,10 @@
-@article{lima2019dromme, 
-    title={DRØMME: Proposta de um Jogo 2D do Gênero Tiro}, 
-    volume={3}, 
-    url={https://publicacoes.ifc.edu.br/index.php/MEPEC/article/view/445}, 
-    journal={Anais da Mostra de Ensino, Pesquisa, Extensão e Cidadania (MEPEC)}, 
-    author={Ladeira, Ricardo de la Rocha and Pessini, Adriano and Lima, Gabriel Eduardo and Kuglin, Guilherme Eduardo and Hornburg, Thiago Vinicius de Oliveira and Janzen, Timóteo Rafael and Penharbel, Eder Augusto}, 
-    year={2019}, 
-    month={fev.}, 
-    pages={21–22}, 
-    issn={2596-0954}
+@inproceedings{lima2019dromme, 
+    title = {{DR\{O}MME}: Proposta de um Jogo 2D do G\^enero Tiro}, 
+    author = {Ricardo {Ladeira} and Adriano {Pessini} and Gabriel Eduardo {Lima} and Guilherme Eduardo {Kuglin} and Thiago Vinicius de Oliveira {Hornburg} and Tim\'{o}teo Rafael {Janzen} and Eder Augusto {Penharbel}},  
+    booktitle = {Mostra de Ensino, Pesquisa, Extens\~{a}o e Cidadania (MEPEC)}, 
+    issn = {2596-0954},
+    volume = {3}, 
+    pages = {21–22}, 
+    year = {2019},
+    url = {https://publicacoes.ifc.edu.br/index.php/MEPEC/article/view/445}
 }

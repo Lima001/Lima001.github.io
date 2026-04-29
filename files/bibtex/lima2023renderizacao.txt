@@ -1,10 +1,9 @@
-@article{lima2023renderizacao, 
-    title={Renderização de Curva de Bézier Cúbica: Modelagem Formal e Implementação em OpenGL}, 
-    volume={5}, 
-    url={https://publicacoes.ifc.edu.br/index.php/MEPEC/article/view/4707}, 
-    journal={Anais da Mostra de Ensino, Pesquisa, Extensão e Cidadania (MEPEC)}, 
-    author={Lima, Gabriel Eduardo and Penharbel, Eder Augusto}, 
-    year={2023}, 
-    month={nov.}, 
-    issn={2596-0954}
+@inproceedings{lima2023renderizacao, 
+    title = {Renderiza\c{c}\~{a}o de Curva de B\'{e}zier C\'{u}bica: Modelagem Formal e Implementa\c{c}\~{a}o em {OpenGL}}, 
+    author = {Gabriel Eduardo {Lima} and Eder Augusto {Penharbel}}, 
+    booktitle = {Mostra de Ensino, Pesquisa, Extens\~{a}o e Cidadania (MEPEC)}, 
+    issn = {2596-0954},
+    volume = {5}, 
+    year = {2023},
+    url = {https://publicacoes.ifc.edu.br/index.php/MEPEC/article/view/4707}
 }
